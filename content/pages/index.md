@@ -26,7 +26,9 @@ sections:
     title: Introducing a systematic & practical framework to pick the right stocks
     features:
       - title: Applied Equity Research Course
-        subtitle: Explained with practical case-studies from listed companies in NSE
+        subtitle: >-
+          Explained with live practical case-studies from listed companies in
+          NSE
         content: >
           Start learning to invest even if you are from a non-finance
           background, whether you are a student or self-employed
