@@ -83,7 +83,7 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: secondary
-    subtitle: No complex charting techniques & Jargon
+    subtitle: No complex charting techniques & jargon
   - type: features_section
     features:
       - title: >-
