@@ -4,9 +4,11 @@ sections:
   - type: hero_section
     title: "Power of Investing made accessible to every Indian\_\U0001F1EE\U0001F1F3"
     subtitle: Optional hero section subtitle
-    content: >
-      Learn to invest through time-tested research by practical simulations even
-      without opening a Demat Account
+    content: >+
+      Learn the core rules and philosophy of investing and business analysis
+      through practical real-time simulations without even opening a DEMAT
+      account!
+
     actions:
       - label: Try Free
         url: /pricing
