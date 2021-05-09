@@ -200,7 +200,7 @@ sections:
 
 
           **Eleanor Carr,** *CTO, Studio*
-        image: images/eleanor-carr.png
+        image: images/marvelous-eggplant.jpg
         image_alt: Eleanor Carr
         image_position: left
         image_width: twenty-five
