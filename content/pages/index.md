@@ -303,7 +303,7 @@ sections:
       - image: images/logo-black.f44abb4998d1.svg
         image_alt: Netlify logo
         image_align: center
-      - image: images/IMT Ghaziabad Logo.png
+      - image: images/Logo-trendlyne.svg
         image_alt: Gatsby logo
         image_align: center
       - image: images/logo-4.svg
