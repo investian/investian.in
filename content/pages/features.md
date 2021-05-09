@@ -9,10 +9,10 @@ sections:
     features:
       - title: Scanning the Macroeconomic & Industry trends
         subtitle: 'Odio et tortor laoreet, sed interdum augue ornare. '
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: |
+          MoneyControl, Screener, Tickertape, Tijori Finance, Trendlyne
+
+          Business news- Livemint, Business Standard, Bloomberg, Reuters.
         image: images/wo1.jpg
         image_alt: Top view of business meeting
         media_position: right
