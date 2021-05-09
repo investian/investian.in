@@ -10,8 +10,7 @@ sections:
       companies in Indian Stock markets.
 
 
-      Even if you are from a non-finance background. It's never too late to
-      start investing & make your money work for you.
+      Even if you are from a non-finance background.
     actions:
       - label: Learn more
         url: /pricing
