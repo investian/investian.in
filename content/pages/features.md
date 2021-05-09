@@ -38,7 +38,7 @@ sections:
     title: >-
       FREE simulation tools for equity research and real-time portfolio
       management
-    subtitle: Grid Section Example
+    subtitle: BONUS
     grid_items:
       - title: Section Item 1
         title_align: left
