@@ -250,8 +250,7 @@ sections:
       - title_align: center
         image: images/interesting-tortoise.png
         image_position: top
-      - title: Dianne Ameter
-        subtitle: Software Engineer
+      - subtitle: Software Engineer
         title_align: center
         image: images/trendlyne.png
         image_position: top
