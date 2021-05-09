@@ -291,58 +291,6 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: none
-  - type: grid_section
-    title: Image Grid
-    subtitle: Grid Section Example
-    align: center
-    grid_items:
-      - image_alt: Contentful logo
-        image_align: center
-        image_width: twenty-five
-        image_has_padding: false
-      - image_alt: Netlify logo
-        image_align: center
-      - image_alt: Gatsby logo
-        image_align: center
-      - image_alt: Sanity logo
-        image_align: center
-      - title_align: left
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
-      - image: images/enthusiastic-chili.png
-        image_alt: DatoCMS logo
-        image_align: center
-      - image: images/rainy-thyme.png
-        image_alt: Next.js logo
-        image_align: center
-      - image: images/moneycontrol.png
-        image_alt: Gridsome logo
-        image_align: center
-      - title_align: left
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
-      - image: images/tijori.png
-        image_alt: Git logo
-        image_align: center
-    grid_cols: four
-    grid_gap_horiz: medium
-    grid_gap_vert: medium
   - type: cta_section
     title: This is Call To Action Section In DIY Theme!
     content: >-
