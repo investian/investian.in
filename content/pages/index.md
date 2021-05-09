@@ -237,7 +237,7 @@ sections:
     background_color: none
   - type: blog_feed_section
     title: Exclusive Research Insights
-    subtitle: Blog Feed Section Example
+    subtitle: Our Blog
     actions:
       - label: View All
         url: /blog
