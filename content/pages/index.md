@@ -89,7 +89,7 @@ sections:
     subtitle: Workshops & courses starting just @₹99!
   - type: features_section
     features:
-      - title: Investian - Founder
+      - title: About
         subtitle: 'Srikumar Ravindran, Founder - Investian'
         image: images/square-bee.jpg
         image_alt: Brandon Guidelines
