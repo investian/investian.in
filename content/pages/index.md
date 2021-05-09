@@ -27,7 +27,7 @@ sections:
     subtitle: A systematic framework to pick the profitable stocks
     features:
       - title: Unboxing the Investor's basic toolkit
-        subtitle: A Systematic way to pick profitable Stocks
+        subtitle: Unboxing the Investor's basic toolkit
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
