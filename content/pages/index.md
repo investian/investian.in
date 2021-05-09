@@ -15,7 +15,7 @@ sections:
       - label: Learn more
         url: /pricing
         style: primary
-      - label: Learn More
+      - label: Join the Community
         url: /features
         style: secondary
     image: images/rainy-kale.jpg
