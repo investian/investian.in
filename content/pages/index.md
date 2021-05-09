@@ -222,8 +222,6 @@ sections:
     title: It's never too late to start making your money work for you.
     content: |
       Learn from the most comprehensive Investing courses.
-
-      Starting just @₹99!
     actions:
       - label: Join now
         url: /features
