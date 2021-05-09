@@ -137,26 +137,6 @@ sections:
     grid_gap_vert: large
     align: center
     background_color: secondary
-  - type: grid_section
-    title: Our Investor's Toolkit
-    subtitle: Grid Section Example
-    actions: []
-    grid_items:
-      - title_align: center
-        image: images/interesting-tortoise.png
-        image_position: top
-      - title_align: center
-        image: images/trendlyne.png
-        image_position: top
-      - title_align: center
-        image: images/unique-mint.png
-        image_position: top
-      - title_align: center
-        image: images/fabulous-moon.png
-        image_position: top
-    grid_cols: four
-    align: center
-    background_color: secondary
   - type: features_section
     features:
       - title: Our vision
@@ -177,6 +157,26 @@ sections:
         media_width: thirty-three
     feature_padding_vert: small
     background_color: primary
+  - type: grid_section
+    title: Our Investor's Toolkit
+    subtitle: Grid Section Example
+    actions: []
+    grid_items:
+      - title_align: center
+        image: images/interesting-tortoise.png
+        image_position: top
+      - title_align: center
+        image: images/trendlyne.png
+        image_position: top
+      - title_align: center
+        image: images/unique-mint.png
+        image_position: top
+      - title_align: center
+        image: images/fabulous-moon.png
+        image_position: top
+    grid_cols: four
+    align: center
+    background_color: secondary
   - type: grid_section
     title: Cards Grid Section
     subtitle: Grid Section Example
