@@ -180,7 +180,7 @@ sections:
 
 
           **Hanson Deck,** *App Developer, Studio*
-        image: images/fabulous-steel.jpg
+        image: images/rakesh.jpg
         image_alt: Hanson Deck
         image_position: left
         image_width: twenty-five
