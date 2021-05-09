@@ -96,10 +96,10 @@ sections:
           enthusiasts and make the 'Power of Investing' accessible to every
           Indian. For individuals, equity trading is generally synonymous to
           speculation & involves complex trading charts and indicators that
-          later becomes obsolete. And this myth has to be broken. At Investian
-          community, our core philosophy involves in-depth fundamental research
-          and building systematic strategies to pick high-quality investments
-          and build a strong recession-proof portfolio to yield consistent
+          later becomes obsolete. And this myth has to be broken. At Investian,
+          our core philosophy involves in-depth fundamental research and
+          building systematic strategies to pick high-quality investments and
+          build a strong recession-proof portfolio to yield consistent
           risk-adjusted returns in the long run.
         image: images/square-bee.jpg
         image_alt: Brandon Guidelines
