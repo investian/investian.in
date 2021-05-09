@@ -247,8 +247,7 @@ sections:
         url: /style-guide
         style: primary
     grid_items:
-      - subtitle: Co-Founder & CEO
-        title_align: center
+      - title_align: center
         image: images/interesting-tortoise.png
         image_position: top
       - title: Dianne Ameter
