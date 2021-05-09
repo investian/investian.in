@@ -12,7 +12,7 @@ sections:
 
       It's never too late to start investing.
     actions:
-      - label: Try Free
+      - label: Learn more
         url: /pricing
         style: primary
       - label: Learn More
