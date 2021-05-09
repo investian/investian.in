@@ -28,7 +28,9 @@ sections:
       - title: >-
           Learn "How to Pick the right Stocks" in the most systematic and
           practical way
-        subtitle: Unboxing the Investor's basic toolkit
+        subtitle: >-
+          Are you curious to learn "How to Pick the right Stocks" in the most
+          systematic and practical way?
         content: |
           MoneyControl, Screener, Tickertape, Tijori Finance, Trendlyne
 
