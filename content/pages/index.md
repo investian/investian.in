@@ -101,7 +101,6 @@ sections:
     background_color: primary
   - type: grid_section
     title: Our Investor's Toolkit
-    subtitle: Grid Section Example
     actions: []
     grid_items:
       - title_align: center
