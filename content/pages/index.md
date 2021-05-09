@@ -320,7 +320,7 @@ sections:
       - image: images/enthusiastic-chili.png
         image_alt: DatoCMS logo
         image_align: center
-      - image: images/logo-6.svg
+      - image: images/rainy-thyme.png
         image_alt: Next.js logo
         image_align: center
       - image: images/logo-7.svg
