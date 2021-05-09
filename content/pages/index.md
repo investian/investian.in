@@ -14,7 +14,7 @@ sections:
       - label: Learn More
         url: /features
         style: secondary
-    image: images/good-hickory.png
+    image: images/rainy-kale.jpg
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
