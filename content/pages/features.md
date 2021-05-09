@@ -168,7 +168,7 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: primary
-  - title: Trusted by leading Institutions
+  - title: Trusted by students from leading Institutions
     subtitle: lorem-ipsum
     actions: []
     grid_items: []
