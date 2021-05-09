@@ -304,8 +304,7 @@ sections:
         image_align: center
       - image_alt: Gatsby logo
         image_align: center
-      - image: images/neo.png
-        image_alt: Sanity logo
+      - image_alt: Sanity logo
         image_align: center
       - title_align: left
         content_align: left
