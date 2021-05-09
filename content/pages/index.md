@@ -247,8 +247,7 @@ sections:
         url: /style-guide
         style: primary
     grid_items:
-      - title: Gustav Purpleson
-        subtitle: Co-Founder & CEO
+      - subtitle: Co-Founder & CEO
         title_align: center
         image: images/interesting-tortoise.png
         image_position: top
