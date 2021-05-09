@@ -220,8 +220,6 @@ sections:
     background_color: secondary
   - type: cta_section
     title: It's never too late to start making your money work for you.
-    content: |
-      Learn from the most comprehensive Investing courses.
     actions:
       - label: Join now
         url: /features
