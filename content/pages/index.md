@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Power of Investing made accessible to every Indian
+    title: "Power of Investing made accessible to every Indian\_\U0001F1EE\U0001F1F3"
     subtitle: Optional hero section subtitle
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
