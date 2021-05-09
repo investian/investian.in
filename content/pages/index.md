@@ -184,11 +184,10 @@ sections:
         image_alt: Hanson Deck
         image_position: left
         image_width: twenty-five
-      - content: |+
+      - content: |
           "Behind every stock is a company. Find out what it's doing"
 
-          **Peter Lynch,** American investor
-
+          **Peter Lynch,** American investor, Author- One up on Wall Street
         image: images/im-137872.jpg
         image_alt: Miles Tone
         image_position: left
