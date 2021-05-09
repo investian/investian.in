@@ -326,8 +326,7 @@ sections:
       - image: images/logo-7.svg
         image_alt: Gridsome logo
         image_align: center
-      - title: lorem-ipsum
-        subtitle: lorem-ipsum
+      - subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum
