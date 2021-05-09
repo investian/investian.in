@@ -317,7 +317,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - image: images/logo-5.svg
+      - image: images/enthusiastic-chili.png
         image_alt: DatoCMS logo
         image_align: center
       - image: images/logo-6.svg
