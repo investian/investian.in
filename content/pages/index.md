@@ -291,7 +291,7 @@ sections:
       - image: 'images/Indian_School_of_Business,_Hyderabad_Logo.png'
         image_alt: Netlify logo
         image_align: center
-      - image: images/logo-3.svg
+      - image: images/IMT Ghaziabad Logo.png
         image_alt: Gatsby logo
         image_align: center
       - image: images/logo-4.svg
