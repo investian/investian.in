@@ -190,7 +190,7 @@ sections:
 
 
           **Miles Tone,** *CEO, Studio*
-        image: images/remarkable-strawberry.jpg
+        image: images/Peter-Lynch.jpg
         image_alt: Miles Tone
         image_position: left
         image_width: twenty-five
