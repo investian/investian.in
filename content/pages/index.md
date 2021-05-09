@@ -87,6 +87,26 @@ sections:
     align: center
     background_color: secondary
     subtitle: Workshops & courses starting just @₹99!
+  - type: features_section
+    features:
+      - title: Our vision
+        subtitle: >-
+          Hi, I'm Srikumar Ravindran, founder of Investian. The vision of
+          Investian is to build a vibrant open community of passionate finance
+          enthusiasts and make the 'Power of Investing' accessible to every
+          Indian. For individuals, equity trading is generally synonymous to
+          speculation & involves complex trading charts and indicators that
+          later becomes obsolete. And this myth has to be broken. At Investian,
+          our core philosophy involves in-depth fundamental research and
+          building systematic strategies to pick high-quality investments and
+          build a strong recession-proof portfolio to yield consistent
+          risk-adjusted returns in the long run.
+        image: images/square-bee.jpg
+        image_alt: Brandon Guidelines
+        media_position: right
+        media_width: thirty-three
+    feature_padding_vert: small
+    background_color: primary
   - type: grid_section
     title: Strategies from the Legendary investors
     subtitle: 'Also inside: Wisdom bites'
@@ -137,26 +157,6 @@ sections:
     grid_gap_vert: large
     align: center
     background_color: secondary
-  - type: features_section
-    features:
-      - title: Our vision
-        subtitle: >-
-          Hi, I'm Srikumar Ravindran, founder of Investian. The vision of
-          Investian is to build a vibrant open community of passionate finance
-          enthusiasts and make the 'Power of Investing' accessible to every
-          Indian. For individuals, equity trading is generally synonymous to
-          speculation & involves complex trading charts and indicators that
-          later becomes obsolete. And this myth has to be broken. At Investian,
-          our core philosophy involves in-depth fundamental research and
-          building systematic strategies to pick high-quality investments and
-          build a strong recession-proof portfolio to yield consistent
-          risk-adjusted returns in the long run.
-        image: images/square-bee.jpg
-        image_alt: Brandon Guidelines
-        media_position: right
-        media_width: thirty-three
-    feature_padding_vert: small
-    background_color: primary
   - type: grid_section
     title: Our Investor's Toolkit
     subtitle: Grid Section Example
