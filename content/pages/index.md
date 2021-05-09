@@ -24,7 +24,7 @@ sections:
     background_color: primary
   - type: features_section
     title: Applied Equity Research Course
-    subtitle: A systematic framework to pick the right stocks
+    subtitle: A systematic framework to pick the profitablestocks
     features:
       - title: Equity Research in Practice
         subtitle: A Systematic way to pick profitable Stocks
