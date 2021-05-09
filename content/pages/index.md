@@ -190,7 +190,7 @@ sections:
 
 
           **Miles Tone,** *CEO, Studio*
-        image: images/NLpeEM5K_400x400.png
+        image: images/im-137872.jpg
         image_alt: Miles Tone
         image_position: left
         image_width: twenty-five
