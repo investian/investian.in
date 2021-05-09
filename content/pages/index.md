@@ -89,9 +89,7 @@ sections:
     subtitle: Workshops & courses starting just @₹99!
   - type: features_section
     features:
-      - title: >-
-          BONUS: FREE simulation tools for equity research and real-time
-          portfolio management
+      - title: 'BONUS:'
         subtitle: >-
           Hi, I'm Srikumar Ravindran, founder of Investian. The vision of
           Investian is to build a vibrant open community of passionate finance
