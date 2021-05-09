@@ -300,7 +300,7 @@ sections:
         image_align: center
         image_width: twenty-five
         image_has_padding: false
-      - image: 'images/Indian_School_of_Business,_Hyderabad_Logo.png'
+      - image: images/logo-black.f44abb4998d1.svg
         image_alt: Netlify logo
         image_align: center
       - image: images/IMT Ghaziabad Logo.png
