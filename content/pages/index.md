@@ -3,13 +3,6 @@ title: Home
 sections:
   - type: hero_section
     title: "Power of Investing made accessible to every Indian\_\U0001F1EE\U0001F1F3"
-    content: >
-      Understand the core rules and philosophy of investing and business
-      analysis through practical simulations & real-time case studies of listed
-      companies in Indian Stock markets.
-
-
-      Even if you are from a non-finance background.
     actions:
       - label: Learn more
         url: /pricing
