@@ -90,10 +90,6 @@ sections:
   - type: features_section
     features:
       - title: Join the Equity Research practical masterclass now
-        subtitle: >-
-          A practical simulation case study for buying/selling equities in
-          real-time market and constructing an virtual portfolio worth
-          ₹10,00,000 and backtest it's performance. All for free.
         image: images/pink-sycamore.png
         image_alt: Brandon Guidelines
         media_position: right
