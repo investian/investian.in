@@ -173,12 +173,13 @@ sections:
     title: Learn from the Legendary investors
     subtitle: 'Also inside: Wisdom bites'
     grid_items:
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+      - content: >
+          We were not taught financial literacy in school. The most important
+          thing to realize is that when money is in good hands, it wants to stay
+          & keep multiplying in those hands.
 
 
-          **Hanson Deck,** *App Developer, Studio*
+          **Warren Buffer,** CEO Bershire Hathaway
         image: images/warren-buffett-9230729-1-402.jpg
         image_alt: Hanson Deck
         image_position: left
