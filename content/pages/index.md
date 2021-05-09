@@ -44,7 +44,7 @@ sections:
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: fifty
-      - title: Learn to picking key information from the company's annual reports
+      - title: Learn to pick key information from the company's annual reports
         content: >+
           In-depth Financial Ratio analysis + Demystifying the 3 key decisions
           every company make (Capital Budgeting, Leverage & Dividends)
