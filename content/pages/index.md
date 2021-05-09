@@ -337,7 +337,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - image: images/logo-8.svg
+      - image: images/tijori.png
         image_alt: Git logo
         image_align: center
     grid_cols: four
