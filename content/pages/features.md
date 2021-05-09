@@ -18,7 +18,7 @@ sections:
         media_position: right
         media_width: fifty
       - title: How to Read the Annual Report of a Company
-        subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
+        subtitle: Understanding the 3 financial statements
         content: >
           \-In-depth Financial Ratio analysis
 
