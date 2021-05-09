@@ -6,8 +6,8 @@ sections:
     subtitle: Stop speculating. Start Investing.
     content: >
       Understand the core rules and philosophy of investing and business
-      analysis through practical real-time simulations, even if you are from a
-      non-finance background.
+      analysis through practical real-time case studies & simulations, even if
+      you are from a non-finance background.
 
 
       It's never too late to start investing.
