@@ -14,7 +14,7 @@ sections:
       - label: Learn More
         url: /features
         style: secondary
-    image: images/Srikumar Ravindran.jpg
+    image: images/education-1-2.png
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
