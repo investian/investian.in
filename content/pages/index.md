@@ -65,9 +65,9 @@ sections:
           SWOT, Porter's 5 forces, PESTLE, Value Chain Analysis, DuPont
           Analysis, Piotroski Scan & more
         content: >
-          Also a deep-dive into classical DCF & Multiples based Valuation
-          techniques to analyze publicly listed firms in the Indian Stock Market
-          + ***Excel Workbook included***
+          A deep-dive into classical DCF & Multiples based Valuation techniques
+          to analyze publicly listed firms in the Indian Stock Market + ***Excel
+          Workbook included***
         actions:
           - label: Learn More
             url: /style-guide
