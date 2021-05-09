@@ -171,7 +171,7 @@ sections:
     background_color: none
   - type: grid_section
     title: Learn from the Legendary investors
-    subtitle: Grid Section Example
+    subtitle: 'Inside: Wisdom bites'
     grid_items:
       - content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
