@@ -45,17 +45,9 @@ sections:
         media_width: fifty
       - title: Hands-on approach to analyze financial reports
         content: >
-          Demystifying the 3 key decisions every company make & it's impact on
-          share price 
-
-
-          *   Capital Budgeting, 
-
-
-          *   Leverage 
-
-
-          *   Dividends declaration
+          Demystifying the 3 key decisions every company make (Capital
+          Budgeting, Leverage, Dividends declaration) & it's impact on share
+          price
         actions:
           - label: Learn More
             url: /style-guide
