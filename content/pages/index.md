@@ -26,17 +26,14 @@ sections:
           Explained with live practical case-studies from listed companies in
           Indian Stock markets
         content: >
-
           Stop betting on complex technical charts & useless indicators.
 
 
           Understand the core rules and philosophy of investing and business
-          analysis through practical simulations & real-time case studies of
-          listed companies in Indian Stock markets.
+          analysis.
 
 
-          Start learning to invest even if you are from a non-finance
-          background. 
+          Even if you are from a non-finance background.
         actions:
           - label: Learn More
             url: /style-guide
