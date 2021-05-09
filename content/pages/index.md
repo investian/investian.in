@@ -61,7 +61,7 @@ sections:
         media_width: fifty
         subtitle: Understanding the 3 financial statements
       - title: Key Frameworks to understand businesses & pick the right stocks
-        subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
+        subtitle: 'SWOT, Porter''s 5 forces, PESTLE, Value Chain Analysis, DuPont Analysis'
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
