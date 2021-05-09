@@ -32,9 +32,13 @@ sections:
         subtitle: >-
           Explained with live practical case-studies from listed companies in
           NSE
-        content: >
+        content: >+
+          Stop betting on complex technical charts & useless indicators.
+
+
           Start learning to invest even if you are from a non-finance
-          background, whether you are a student or self-employed
+          background, whether you are a student or self-employed. 
+
         actions:
           - label: Learn More
             url: /style-guide
