@@ -170,7 +170,7 @@ sections:
     align: center
     background_color: none
   - type: grid_section
-    title: Learn from the Legendary investors
+    title: Strategies from the Legendary investors
     subtitle: 'Also inside: Wisdom bites'
     grid_items:
       - content: >
