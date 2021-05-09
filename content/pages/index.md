@@ -93,7 +93,7 @@ sections:
         subtitle: >-
           FREE simulation tools for equity research and real-time portfolio
           management
-        image: images/13716.jpg
+        image: images/pink-sycamore.png
         image_alt: Brandon Guidelines
         media_position: right
         media_width: thirty-three
