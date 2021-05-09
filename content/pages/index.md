@@ -24,7 +24,7 @@ sections:
       - title: Applied Equity Research Course
         subtitle: >-
           Explained with live practical case-studies from listed companies in
-          Indian Stock markets
+          NSE
         content: >
           Stop betting on complex technical charts & useless indicators. 
 
