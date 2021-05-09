@@ -236,7 +236,7 @@ sections:
     align: center
     background_color: none
   - type: blog_feed_section
-    title: What's New
+    title: Exclusive Research Insights
     subtitle: Blog Feed Section Example
     actions:
       - label: View All
