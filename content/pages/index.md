@@ -14,7 +14,7 @@ sections:
       - label: Learn More
         url: /features
         style: secondary
-    image: images/pexels-cottonbro-5483064.jpg
+    image: images/magenta-triceratops.jpg
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
