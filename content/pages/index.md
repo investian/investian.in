@@ -308,8 +308,7 @@ sections:
       - image: images/neo.png
         image_alt: Sanity logo
         image_align: center
-      - title: lorem-ipsum
-        title_align: left
+      - title_align: left
         content_align: left
         actions: []
         actions_align: left
