@@ -63,7 +63,7 @@ sections:
       - title: Time-tested Frameworks to understand businesses
         subtitle: >-
           SWOT, Porter's 5 forces, PESTLE, Value Chain Analysis, DuPont
-          Analysis, Piotroski Scan
+          Analysis, Piotroski Scan & more
         content: |+
           A Primer in DCF & Multiples based Valuations
 
