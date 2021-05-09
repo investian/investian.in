@@ -23,7 +23,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: features_section
-    title: Practical insights into Indian Investing
+    title: Practical insights into Indian Investing Landscape
     features:
       - title: Applied Equity Research Course
         subtitle: >-
