@@ -68,7 +68,7 @@ sections:
         media_position: left
         media_width: fifty
         subtitle: >-
-          Understanding the 3 financial statements In-depth Financial Ratio
+          Understanding the 3 financial statements + Idepth Financial Ratio
           analysis 
       - title: Time-tested Frameworks to understand businesses
         subtitle: >-
