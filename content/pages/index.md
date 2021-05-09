@@ -6,8 +6,8 @@ sections:
     subtitle: Stop speculating. Start Investing.
     content: >
       Understand the core rules and philosophy of investing and business
-      analysis through practical real-time simulations without even opening a
-      DEMAT account!
+      analysis through practical real-time simulations, even if you are from a
+      non-finance background. 
     actions:
       - label: Try Free
         url: /pricing
