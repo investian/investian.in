@@ -203,11 +203,8 @@ sections:
         image_alt: Eleanor Carr
         image_position: left
         image_width: twenty-five
-      - content: >
-          The only way one should buy stocks is if you understand the underlying
-          business. You stay within the circle of competence. You buy businesses
-          you understand.
-
+      - content: |
+          There is no such thing as a value trap. There are investing mistakes.
 
           **Mohnish Pabrai,** Author: The Dhandho Investor
         image: images/majestic-avocado.jpg
