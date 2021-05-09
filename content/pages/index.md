@@ -323,7 +323,7 @@ sections:
       - image: images/rainy-thyme.png
         image_alt: Next.js logo
         image_align: center
-      - image: images/logo-7.svg
+      - image: images/moneycontrol.png
         image_alt: Gridsome logo
         image_align: center
       - title_align: left
