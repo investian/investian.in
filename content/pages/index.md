@@ -26,9 +26,7 @@ sections:
     title: Applied Equity Research Course
     subtitle: A systematic framework to pick the profitable stocks
     features:
-      - title: >-
-          **Applied Equity Research Course - A systematic way to pick the right
-          stocks**
+      - title: 'Investor''s basic toolkit '
         subtitle: A Systematic way to pick profitable Stocks
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
