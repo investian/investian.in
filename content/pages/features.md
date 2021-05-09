@@ -28,7 +28,7 @@ sections:
       - title: Key Frameworks to understand businesses & pick the right stocks
         subtitle: 'SWOT, Porter''s 5 forces, PESTLE, Value Chain Analysis, DuPont Analysis'
         content: |+
-          SWOT, Porter's 5 forces, PESTLE, Value Chain Analysis, DuPont Analysis
+          A Primer in DCF & Multiples based Valuations
 
         image: images/bud5.jpg
         image_alt: Happy co-workers
