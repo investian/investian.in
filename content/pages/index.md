@@ -103,7 +103,7 @@ sections:
           building systematic strategies to pick high-quality investments and
           build a strong recession-proof portfolio to yield consistent
           risk-adjusted returns in the long run.
-        image: images/monrbi2.jpg
+        image: images/square-broccoli.jpg
         image_alt: Brandon Guidelines
         media_position: right
         media_width: thirty-three
