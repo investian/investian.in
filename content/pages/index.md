@@ -90,7 +90,13 @@ sections:
   - type: features_section
     features:
       - title: About
-        subtitle: 'Hi, I''m Srikumar Ravindran, founder of Investian.'
+        subtitle: >-
+          Hi, I'm Srikumar Ravindran, founder of Investian. The vision of
+          Investian is to build a vibrant community of Finance Enthusiasts and
+          make the power of Investing accessible to every Indian. Equities are
+          generally synonymous to speculation & involves complex trading charts
+          and indicators in the minds of individuals, and this myth has to be
+          broken.
         image: images/square-bee.jpg
         image_alt: Brandon Guidelines
         media_position: right
