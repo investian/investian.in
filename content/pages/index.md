@@ -26,7 +26,7 @@ sections:
           Explained with live practical case-studies from listed companies in
           Indian Stock markets
         content: >
-          Stop betting on complex technical charts & useless indicators.
+          Stop betting on complex technical charts & useless indicators. 
 
 
           Understand the core rules and philosophy of investing and business
