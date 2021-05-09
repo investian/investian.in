@@ -28,10 +28,10 @@ sections:
     features:
       - title: Scanning the Macroeconomic & Industry trends
         subtitle: Unboxing the Investor's basic toolkit
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: |
+          MoneyControl, Screener, Tickertape, Tijori Finance, Trendlyne
+
+          Business news- Livemint, Business Standard, Bloomberg, Reuters.
         actions:
           - label: Learn More
             url: /style-guide
