@@ -23,7 +23,7 @@ sections:
     features:
       - title: Applied Equity Research Course
         subtitle: >-
-          Explained with live practical case-studies from listed companies in
+          Explained with live practical case studies from listed companies in
           NSE
         content: >
           Stop betting on complex technical charts & useless indicators. 
