@@ -89,7 +89,7 @@ sections:
     subtitle: Workshops & courses starting just @₹99!
   - type: features_section
     features:
-      - title: About
+      - title: Our vision
         subtitle: >-
           Hi, I'm Srikumar Ravindran, founder of Investian. The vision of
           Investian is to build a vibrant community of Finance Enthusiasts and
