@@ -70,13 +70,7 @@ sections:
         image_has_padding: true
       - title_align: left
         content_align: left
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: center
+        actions: []
         actions_align: left
         image: images/classic/icon-3.svg
         image_alt: Item 4 icon
