@@ -23,7 +23,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: features_section
-    title: Practical insights into Indian Investing Landscape
+    title: Introducing a systematic & practical framework to pick the right stocks
     features:
       - title: Applied Equity Research Course
         subtitle: >-
