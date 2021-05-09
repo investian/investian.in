@@ -160,7 +160,7 @@ sections:
         image: images/testi.jpg
         image_alt: Section item 2 icon
         image_position: top
-        image_align: left
+        image_align: center
         image_has_padding: true
       - title: Section Item 3
         title_align: left
