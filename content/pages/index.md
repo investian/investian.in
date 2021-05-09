@@ -90,7 +90,7 @@ sections:
   - type: features_section
     features:
       - title: Join the Equity Research practical masterclass now
-        image: images/landing-15-1.jpg
+        image: images/smiling-broccoli.png
         image_alt: Brandon Guidelines
         media_position: right
         media_width: thirty-three
