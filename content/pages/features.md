@@ -20,11 +20,8 @@ sections:
       - title: How to Read the Annual Report of a Company
         subtitle: Understanding the 3 financial statements
         content: >
-          In-depth Financial Ratio analysis
-
-
-          3 key decisions every company make (Capital Budgeting, Leverage &
-          Dividends)
+          In-depth Financial Ratio analysis + Demystifying the 3 key decisions
+          every company make (Capital Budgeting, Leverage & Dividends)
         media_position: left
         media_width: fifty
         image: images/M3-Ch4-chart1.jpg
