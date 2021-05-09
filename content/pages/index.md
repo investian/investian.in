@@ -185,8 +185,10 @@ sections:
         image_position: left
         image_width: twenty-five
       - content: >
-          Buy only what you understand, believe in, and intend to stick with --
-          even when others are chasing the next miracle.
+          I always thought if you looked at ten companies, you'd find one that's
+          interesting, if you'd look at 20, you'd find two, or if you look at
+          hundred you'll find ten. The person that turns over the most rocks
+          wins the game.
 
 
           **Peter Lynch,**  Author: One up on Wall Street
