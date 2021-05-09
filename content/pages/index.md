@@ -102,25 +102,23 @@ sections:
   - type: cta_section
     title: Join the Equity Research practical masterclass now
     content: >
-      Understand the nuances of Equity Research and how you can apply it to
-      create long-term wealth through investing. 
+      *   Understand the nuances of Equity Research and how you can apply it to
+      create long-term wealth through investing.
 
 
-      Identify moats and analyze specific sectors to help you build your circle
-      of competence
+      *   Identify moats and analyze specific sectors to help you build your
+      circle of competence
 
 
-      Analyze financial statements deeply, Calculate Intrinsic Values of stocks,
-      Simulate a portfolio of handpicked quality stocks and backtest the
-      performance, 
+      *   Analyze financial statements of businesses & calculate it's Intrinsic
+      Values 
 
 
-      All for just ₹99! 
+      *   Simulate a portfolio of handpicked quality stocks and backtest the
+      performance
 
 
-      and also gain access to our exclusive Forum to participate in learning
-      exercises and discuss practical examples so that you can gain experience
-      in doing your own independent analysis
+      All for just ₹99!
     actions:
       - label: Button
         url: /pricing
