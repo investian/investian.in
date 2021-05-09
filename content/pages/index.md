@@ -300,8 +300,7 @@ sections:
         image_align: center
         image_width: twenty-five
         image_has_padding: false
-      - image: images/logo-black.f44abb4998d1.svg
-        image_alt: Netlify logo
+      - image_alt: Netlify logo
         image_align: center
       - image_alt: Gatsby logo
         image_align: center
