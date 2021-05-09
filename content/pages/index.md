@@ -7,13 +7,11 @@ sections:
     content: >
       Understand the core rules and philosophy of investing and business
       analysis through practical simulations & real-time case studies of listed
-      companies in Indian Stock markets. 
+      companies in Indian Stock markets.
 
 
-      Even if you are from a non-finance background.
-
-
-      It's never too late to start investing & make your money work for you.
+      Even if you are from a non-finance background. It's never too late to
+      start investing & make your money work for you.
     actions:
       - label: Learn more
         url: /pricing
