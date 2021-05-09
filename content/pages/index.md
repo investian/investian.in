@@ -117,7 +117,7 @@ sections:
         image_position: top
     grid_cols: four
     align: center
-    background_color: secondary
+    background_color: none
   - type: grid_section
     title: Testimonials
     subtitle: Our Community speaks
