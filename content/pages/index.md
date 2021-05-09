@@ -7,7 +7,10 @@ sections:
     content: >
       Understand the core rules and philosophy of investing and business
       analysis through practical real-time simulations, even if you are from a
-      non-finance background. 
+      non-finance background.
+
+
+      It's never too late to start investing. 
     actions:
       - label: Try Free
         url: /pricing
