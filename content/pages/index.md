@@ -23,7 +23,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: features_section
-    title: Equity Research in Practice
+    title: Applied Equity Research
     subtitle: Features Section Example
     features:
       - title: The Big Title For the Feature
