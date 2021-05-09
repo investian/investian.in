@@ -50,7 +50,7 @@ sections:
         image_align: center
         image_has_padding: true
         image_width: twenty-five
-      - title_align: left
+      - title_align: center
         content_align: center
         actions: []
         actions_align: left
