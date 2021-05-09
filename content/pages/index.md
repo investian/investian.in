@@ -118,7 +118,7 @@ sections:
       performance
 
 
-      > All for just ₹99!
+      *All for just ₹99!*
     actions:
       - label: Button
         url: /pricing
