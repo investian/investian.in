@@ -184,8 +184,10 @@ sections:
         image_alt: Hanson Deck
         image_position: left
         image_width: twenty-five
-      - content: |
-          "Behind every stock is a company. Find out what it's doing"
+      - content: >
+          Buy only what you understand, believe in, and intend to stick with --
+          even when others are chasing the next miracle.
+
 
           **Peter Lynch,**  Author: One up on Wall Street
         image: images/im-137872.jpg
