@@ -180,7 +180,7 @@ sections:
 
 
           **Hanson Deck,** *App Developer, Studio*
-        image: images/warren.jpg
+        image: images/warren-buffett-9230729-1-402.jpg
         image_alt: Hanson Deck
         image_position: left
         image_width: twenty-five
