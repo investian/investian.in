@@ -31,10 +31,10 @@ sections:
         subtitle: >-
           Are you curious to learn "How to Pick the right Stocks" in the most
           systematic and practical way?
-        content: |
-          MoneyControl, Screener, Tickertape, Tijori Finance, Trendlyne
+        content: >+
+          It does not matter if you are from a non-finance background, whether
+          you are a Student or Self-employed
 
-          Business news- Livemint, Business Standard, Bloomberg, Reuters.
         actions:
           - label: Learn More
             url: /style-guide
