@@ -86,7 +86,6 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: secondary
-    subtitle: Workshops & courses starting just @₹99!
   - type: features_section
     features:
       - title: Join the Equity Research practical masterclass now
