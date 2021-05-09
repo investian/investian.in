@@ -10,7 +10,7 @@ sections:
       non-finance background.
 
 
-      It's never too late to start investing. 
+      It's never too late to start investing.
     actions:
       - label: Try Free
         url: /pricing
