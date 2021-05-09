@@ -26,7 +26,7 @@ sections:
     title: Applied Equity Research
     subtitle: Features Section Example
     features:
-      - title: Equity Research in Practise
+      - title: Equity Research in Practice
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
