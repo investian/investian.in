@@ -193,12 +193,13 @@ sections:
         image_alt: Miles Tone
         image_position: left
         image_width: twenty-five
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+      - content: >
+          Never put your hard earned money without proper research. Never invest
+          according to “Stock tips”.
 
 
-          **Eleanor Carr,** *CTO, Studio*
+
+          **Rakesh Jhunjhunwala,** *Indian Investor*
         image: images/marvelous-eggplant.jpg
         image_alt: Eleanor Carr
         image_position: left
