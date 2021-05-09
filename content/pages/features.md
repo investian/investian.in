@@ -3,7 +3,7 @@ title: Features
 sections:
   - type: hero_section
     title: Equity Research in Practice
-    subtitle: A Systematic way to pick profitable Stocks
+    subtitle: A Systematic way to pick Profitable Stocks
     background_color: primary
   - type: features_section
     features:
