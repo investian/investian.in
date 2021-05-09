@@ -253,8 +253,7 @@ sections:
       - title_align: center
         image: images/trendlyne.png
         image_position: top
-      - title: Hugh Saturation
-        subtitle: Developer Advocate
+      - subtitle: Developer Advocate
         title_align: center
         image: images/unique-mint.png
         image_position: top
