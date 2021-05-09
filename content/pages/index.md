@@ -25,7 +25,7 @@ sections:
   - type: features_section
     title: Applied Equity Research Course
     features:
-      - title: Scanning the Macroeconomic & Industry trends
+      - title: A systematic framework to pick the profitable stocks
         subtitle: Unboxing the Investor's basic toolkit
         content: |
           MoneyControl, Screener, Tickertape, Tijori Finance, Trendlyne
