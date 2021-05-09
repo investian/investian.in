@@ -49,7 +49,7 @@ sections:
         image_position: top
         image_align: center
         image_has_padding: true
-        image_width: sixty
+        image_width: twenty-five
       - title: Section Item 2
         title_align: left
         content: >-
