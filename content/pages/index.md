@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: "Power of Investing made accessible to every Indian\_\U0001F1EE\U0001F1F3"
-    subtitle: Optional hero section subtitle
+    subtitle: 'Stop speculating. '
     content: >+
       Learn the core rules and philosophy of investing and business analysis
       through practical real-time simulations without even opening a DEMAT
