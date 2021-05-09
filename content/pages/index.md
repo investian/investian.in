@@ -242,10 +242,7 @@ sections:
   - type: grid_section
     title: Our Investor's Toolkit
     subtitle: Grid Section Example
-    actions:
-      - label: Join the team
-        url: /style-guide
-        style: primary
+    actions: []
     grid_items:
       - title_align: center
         image: images/interesting-tortoise.png
