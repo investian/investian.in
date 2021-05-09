@@ -98,6 +98,26 @@ sections:
         image_alt: Brandon Guidelines
         media_position: right
         media_width: thirty-three
+        content: >
+
+
+          *   Understand the nuances of Equity Research and how you can apply it
+          to create long-term wealth through investing 
+
+
+          *   Identify moats and analyze specific sectors to build your circle
+          of competence
+
+
+          *   Analyze financial statements of businesses & calculate it's
+          Intrinsic Values
+
+
+          *   Simulate a portfolio of handpicked quality stocks and backtest the
+          performance
+
+
+          *All for just ₹99!*
     feature_padding_vert: small
     background_color: primary
   - type: cta_section
