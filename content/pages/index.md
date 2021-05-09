@@ -120,7 +120,7 @@ sections:
 
       *All for just ₹99!*
     actions:
-      - label: Button
+      - label: Join now
         url: /pricing
         style: primary
     actions_position: bottom
