@@ -87,6 +87,56 @@ sections:
     align: center
     background_color: secondary
     subtitle: Workshops & courses starting just @₹99!
+  - type: grid_section
+    title: Strategies from the Legendary investors
+    subtitle: 'Also inside: Wisdom bites'
+    grid_items:
+      - content: >
+          We were not taught financial literacy in school. The most important
+          thing to realize is that when money is in good hands, it wants to stay
+          & keep multiplying in those hands.
+
+
+          **Warren Buffer,** CEO Bershire Hathaway
+        image: images/warren-buffett-9230729-1-402.jpg
+        image_alt: Hanson Deck
+        image_position: left
+        image_width: twenty-five
+      - content: >
+          I always thought if you looked at ten companies, you'd find one that's
+          interesting, or if you look at hundred you'll find ten. The person
+          that turns over the most rocks wins the game.
+
+
+          **Peter Lynch,**  Author: One up on Wall Street
+        image: images/im-137872.jpg
+        image_alt: Miles Tone
+        image_position: left
+        image_width: twenty-five
+      - content: >
+          Never put your hard earned money without proper research. Never invest
+          according to “Stock tips”.
+
+
+
+          **Rakesh Jhunjhunwala,** *Indian Investor*
+        image: images/marvelous-eggplant.jpg
+        image_alt: Eleanor Carr
+        image_position: left
+        image_width: twenty-five
+      - content: |
+          There is no such thing as a value trap. There are investing mistakes.
+
+          **Mohnish Pabrai,** Author: The Dhandho Investor
+        image: images/majestic-avocado.jpg
+        image_alt: Gordon Norman
+        image_position: left
+        image_width: twenty-five
+    grid_cols: two
+    grid_gap_horiz: medium
+    grid_gap_vert: large
+    align: center
+    background_color: secondary
   - type: features_section
     features:
       - title: Our vision
@@ -177,56 +227,6 @@ sections:
     enable_cards: true
     align: center
     background_color: none
-  - type: grid_section
-    title: Strategies from the Legendary investors
-    subtitle: 'Also inside: Wisdom bites'
-    grid_items:
-      - content: >
-          We were not taught financial literacy in school. The most important
-          thing to realize is that when money is in good hands, it wants to stay
-          & keep multiplying in those hands.
-
-
-          **Warren Buffer,** CEO Bershire Hathaway
-        image: images/warren-buffett-9230729-1-402.jpg
-        image_alt: Hanson Deck
-        image_position: left
-        image_width: twenty-five
-      - content: >
-          I always thought if you looked at ten companies, you'd find one that's
-          interesting, or if you look at hundred you'll find ten. The person
-          that turns over the most rocks wins the game.
-
-
-          **Peter Lynch,**  Author: One up on Wall Street
-        image: images/im-137872.jpg
-        image_alt: Miles Tone
-        image_position: left
-        image_width: twenty-five
-      - content: >
-          Never put your hard earned money without proper research. Never invest
-          according to “Stock tips”.
-
-
-
-          **Rakesh Jhunjhunwala,** *Indian Investor*
-        image: images/marvelous-eggplant.jpg
-        image_alt: Eleanor Carr
-        image_position: left
-        image_width: twenty-five
-      - content: |
-          There is no such thing as a value trap. There are investing mistakes.
-
-          **Mohnish Pabrai,** Author: The Dhandho Investor
-        image: images/majestic-avocado.jpg
-        image_alt: Gordon Norman
-        image_position: left
-        image_width: twenty-five
-    grid_cols: two
-    grid_gap_horiz: medium
-    grid_gap_vert: large
-    align: center
-    background_color: secondary
   - type: cta_section
     title: It's never too late to start making your money work for you.
     actions:
