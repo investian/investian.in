@@ -111,14 +111,14 @@ sections:
 
 
       *   Analyze financial statements of businesses & calculate it's Intrinsic
-      Values 
+      Values
 
 
       *   Simulate a portfolio of handpicked quality stocks and backtest the
       performance
 
 
-      All for just ₹99!
+      **All for just ₹99!**
     actions:
       - label: Button
         url: /pricing
