@@ -25,9 +25,7 @@ sections:
   - type: features_section
     title: Applied Equity Research Course
     features:
-      - title: >-
-          Learn "How to Pick the right Stocks" in the most systematic and
-          practical way
+      - title: Equity Research in Practice
         subtitle: >-
           Are you curious to learn "How to Pick the right Stocks" in the most
           systematic and practical way?
