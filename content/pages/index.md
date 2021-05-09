@@ -60,7 +60,7 @@ sections:
         media_position: left
         media_width: fifty
         subtitle: Understanding the 3 financial statements
-      - title: The Big Title For the Feature
+      - title: Key Frameworks to understand businesses & pick the right stocks
         subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
