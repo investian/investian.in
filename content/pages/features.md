@@ -2,7 +2,7 @@
 title: Features
 sections:
   - type: hero_section
-    title: Applied Equity Research Course
+    title: Applied Equity Research
     subtitle: A Systematic way to pick profitable Stocks
     background_color: primary
   - type: features_section
