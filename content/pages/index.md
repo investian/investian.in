@@ -23,7 +23,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: features_section
-    title: Applied Equity Research
+    title: Applied Equity Research Course
     subtitle: Features Section Example
     features:
       - title: Equity Research in Practice
