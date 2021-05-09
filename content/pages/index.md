@@ -187,7 +187,7 @@ sections:
       - content: |
           "Behind every stock is a company. Find out what it's doing"
 
-          **Peter Lynch,** American investor, Author: One up on Wall Street
+          **Peter Lynch,**  Author: One up on Wall Street
         image: images/im-137872.jpg
         image_alt: Miles Tone
         image_position: left
