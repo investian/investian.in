@@ -118,7 +118,7 @@ sections:
 
           *All for just ₹99!*
         actions:
-          - label: lorem-ipsum
+          - label: Join now
             url: '#'
             style: link
             has_icon: false
