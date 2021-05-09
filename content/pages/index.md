@@ -60,7 +60,7 @@ sections:
         media_position: left
         media_width: fifty
         subtitle: Understanding the 3 financial statements
-      - title: Learn key Frameworks to understand businesses
+      - title: Key Frameworks to understand businesses
         subtitle: 'SWOT, Porter''s 5 forces, PESTLE, Value Chain Analysis, DuPont Analysis'
         content: |+
           A Primer in DCF & Multiples based Valuations
