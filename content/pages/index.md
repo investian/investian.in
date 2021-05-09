@@ -137,6 +137,26 @@ sections:
     grid_gap_vert: large
     align: center
     background_color: secondary
+  - type: grid_section
+    title: Our Investor's Toolkit
+    subtitle: Grid Section Example
+    actions: []
+    grid_items:
+      - title_align: center
+        image: images/interesting-tortoise.png
+        image_position: top
+      - title_align: center
+        image: images/trendlyne.png
+        image_position: top
+      - title_align: center
+        image: images/unique-mint.png
+        image_position: top
+      - title_align: center
+        image: images/fabulous-moon.png
+        image_position: top
+    grid_cols: four
+    align: center
+    background_color: secondary
   - type: features_section
     features:
       - title: Our vision
@@ -248,26 +268,6 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: none
-  - type: grid_section
-    title: Our Investor's Toolkit
-    subtitle: Grid Section Example
-    actions: []
-    grid_items:
-      - title_align: center
-        image: images/interesting-tortoise.png
-        image_position: top
-      - title_align: center
-        image: images/trendlyne.png
-        image_position: top
-      - title_align: center
-        image: images/unique-mint.png
-        image_position: top
-      - title_align: center
-        image: images/fabulous-moon.png
-        image_position: top
-    grid_cols: four
-    align: center
-    background_color: secondary
   - type: cta_section
     title: It's never too late to start making your money work for you.
     actions:
