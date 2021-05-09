@@ -43,7 +43,7 @@ sections:
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: fifty
-      - title: Hands-on approach to analyze company's reports
+      - title: Hands-on approach to analyze busubess reports
         content: >+
           In-depth Financial Ratio analysis + Demystifying the 3 key decisions
           every company make (Capital Budgeting, Leverage & Dividends)
