@@ -8,7 +8,7 @@ sections:
   - type: features_section
     features:
       - title: Scanning the Macroeconomic & Industry trends
-        subtitle: Investor's basic toolkit
+        subtitle: Unboxing the Investor's basic toolkit
         content: |
           MoneyControl, Screener, Tickertape, Tijori Finance, Trendlyne
 
