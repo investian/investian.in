@@ -51,7 +51,7 @@ sections:
         image_has_padding: true
         image_width: twenty-five
       - title_align: left
-        content_align: left
+        content_align: right
         actions: []
         actions_align: left
         image: images/classic/icon-2.svg
