@@ -27,10 +27,9 @@ sections:
     features:
       - title: Applied Equity Research Course
         subtitle: Explained with practical case-studies from listed companies in NSE
-        content: >+
-          It does not matter if you are from a non-finance background, whether
-          you are a Student or Self-employed
-
+        content: >
+          Start learning to invest even if you are from a non-finance
+          background, whether you are a student or self-employed
         actions:
           - label: Learn More
             url: /style-guide
