@@ -104,11 +104,11 @@ sections:
     title: Join the Equity Research practical masterclass now
     content: >
       *   Understand the nuances of Equity Research and how you can apply it to
-      create long-term wealth through investing.
+      create long-term wealth through investing
 
 
-      *   Identify moats and analyze specific sectors to help you build your
-      circle of competence
+      *   Identify moats and analyze specific sectors to build your circle of
+      competence
 
 
       *   Analyze financial statements of businesses & calculate it's Intrinsic
