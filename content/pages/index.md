@@ -107,13 +107,9 @@ sections:
           Intrinsic Values
 
 
-          *   Simulate a portfolio of handpicked quality stocks and backtest the
-          performance
-
-
           ***BONUS:*** A practical simulation case study for buying/selling
-          equities in real-time market and constructing an virtual portfolio
-          worth ₹10,00,000 and backtest it's performance. All for free.
+          equities in real-time market and constructing an virtual portfolio of
+          handpicked stocks worth ₹10,00,000 and backtest it's performance. 
 
 
           *All for just ₹99!*
