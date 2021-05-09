@@ -256,8 +256,7 @@ sections:
       - title_align: center
         image: images/unique-mint.png
         image_position: top
-      - title: Hilary Ouse
-        subtitle: Operations Manager
+      - subtitle: Operations Manager
         title_align: center
         image: images/fabulous-moon.png
         image_position: top
