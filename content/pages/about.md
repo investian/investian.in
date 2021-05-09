@@ -8,7 +8,7 @@ sections:
     background_color: secondary
   - type: features_section
     features:
-      - title: Section Title One
+      - title: Our Vision
         subtitle: 'Odio et tortor laoreet, sed interdum augue ornare. '
         content: >+
           Hi, I'm Srikumar Ravindran, founder of Investian. The vision of
