@@ -89,7 +89,7 @@ sections:
     subtitle: Workshops & courses starting just @₹99!
   - type: features_section
     features:
-      - title: 'BONUS:'
+      - title: Join the Equity Research practical masterclass now
         subtitle: >-
           A practical simulation case study for buying/selling equities in
           real-time market and constructing an virtual portfolio worth
