@@ -26,7 +26,7 @@ sections:
     title: Introducing a systematic & practical framework to pick the right stocks
     features:
       - title: Applied Equity Research Course
-        subtitle: with practical case-studies
+        subtitle: Explained with practical case-studies
         content: >+
           It does not matter if you are from a non-finance background, whether
           you are a Student or Self-employed
