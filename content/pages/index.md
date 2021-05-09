@@ -286,7 +286,7 @@ sections:
       - image: images/1024px-IIM_Bangalore_Logo.svg.png
         image_alt: Contentful logo
         image_align: center
-        image_width: twenty-five
+        image_width: thirty-three
         image_has_padding: true
       - image: 'images/Indian_School_of_Business,_Hyderabad_Logo.png'
         image_alt: Netlify logo
