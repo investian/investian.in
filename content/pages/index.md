@@ -18,7 +18,7 @@ sections:
       - label: Join the Community
         url: /features
         style: secondary
-    image: images/rainy-kale.jpg
+    image: images/marvelous-zebra.jpg
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
