@@ -221,7 +221,9 @@ sections:
   - type: cta_section
     title: It's never too late to start making your money work for you.
     content: |
-      Learn from the most comprehensive Investing course. Starting just @₹99!
+      Learn from the most comprehensive Investing courses. 
+
+      sStarting just @₹99!
     actions:
       - label: Join now
         url: /features
