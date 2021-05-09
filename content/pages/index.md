@@ -111,11 +111,9 @@ sections:
           performance
 
 
-          *   ***BONUS:*** A practical simulation case study for buying/selling
+          ***BONUS:*** A practical simulation case study for buying/selling
           equities in real-time market and constructing an virtual portfolio
           worth ₹10,00,000 and backtest it's performance. All for free.
-
-
 
 
           *All for just ₹99!*
