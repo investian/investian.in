@@ -75,7 +75,7 @@ sections:
         image: images/classic/icon-3.svg
         image_alt: Item 4 icon
         image_position: top
-        image_align: left
+        image_align: center
         image_has_padding: true
     grid_cols: four
     grid_gap_horiz: medium
