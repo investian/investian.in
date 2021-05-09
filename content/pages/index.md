@@ -101,10 +101,26 @@ sections:
     background_color: primary
   - type: cta_section
     title: Join the Equity Research practical masterclass now
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+    content: >
+      Understand the nuances of Equity Research and how you can apply it to
+      create long-term wealth through investing. 
+
+
+      Identify moats and analyze specific sectors to help you build your circle
+      of competence
+
+
+      Analyze financial statements deeply, Calculate Intrinsic Values of stocks,
+      Simulate a portfolio of handpicked quality stocks and backtest the
+      performance, 
+
+
+      All for just ₹99! 
+
+
+      and also gain access to our exclusive Forum to participate in learning
+      exercises and discuss practical examples so that you can gain experience
+      in doing your own independent analysis
     actions:
       - label: Button
         url: /pricing
