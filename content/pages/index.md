@@ -283,7 +283,7 @@ sections:
     subtitle: Grid Section Example
     align: center
     grid_items:
-      - image: images/gs-logo.svg
+      - image: images/1024px-IIM_Bangalore_Logo.svg.png
         image_alt: Contentful logo
         image_align: center
         image_width: fifty
