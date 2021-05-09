@@ -86,7 +86,7 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: secondary
-    subtitle: No more betting on complex trading charts & technical indicators
+    subtitle: Practical workshops & masterclasses starting just @₹99!
   - type: features_section
     features:
       - title: >-
