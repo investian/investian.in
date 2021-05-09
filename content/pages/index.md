@@ -44,10 +44,10 @@ sections:
         media_position: right
         media_width: fifty
       - title: Picking key information from the company's annual reports
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >+
+          In-depth Financial Ratio analysis + Demystifying the 3 key decisions
+          every company make (Capital Budgeting, Leverage & Dividends)
+
         actions:
           - label: Learn More
             url: /style-guide
