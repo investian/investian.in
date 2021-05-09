@@ -286,6 +286,7 @@ sections:
       - image: images/gs-logo.svg
         image_alt: Contentful logo
         image_align: center
+        image_width: fifty
       - image: images/logo-2.svg
         image_alt: Netlify logo
         image_align: center
