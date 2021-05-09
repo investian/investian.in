@@ -30,7 +30,7 @@ sections:
         content: |+
           SWOT, Porter's 5 forces, PESTLE, Value Chain Analysis, DuPont Analysis
 
-        image: images/about-1.jpg
+        image: images/bud5.jpg
         image_alt: Happy co-workers
         media_position: right
         media_width: fifty
