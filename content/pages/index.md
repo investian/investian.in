@@ -262,18 +262,6 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: secondary
-  - type: cta_section
-    title: It's never too late to start making your money work for you.
-    actions:
-      - label: Join now
-        url: /features
-        style: secondary
-    actions_position: right
-    actions_width: fourty
-    align: left
-    padding_top: large
-    padding_bottom: large
-    background_color: primary
   - type: blog_feed_section
     title: What's New
     subtitle: Blog Feed Section Example
@@ -295,6 +283,18 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: none
+  - type: cta_section
+    title: It's never too late to start making your money work for you.
+    actions:
+      - label: Join now
+        url: /features
+        style: secondary
+    actions_position: right
+    actions_width: fourty
+    align: left
+    padding_top: large
+    padding_bottom: large
+    background_color: primary
 seo:
   title: Stackbit DIY Theme
   description: The preview of the DIY theme
