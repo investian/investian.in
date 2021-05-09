@@ -9,7 +9,6 @@ sections:
   - type: features_section
     features:
       - title: Our Vision
-        subtitle: 'Odio et tortor laoreet, sed interdum augue ornare. '
         content: >+
           Hi, I'm Srikumar Ravindran, founder of Investian. The vision of
           Investian is to build a vibrant open community of passionate finance
