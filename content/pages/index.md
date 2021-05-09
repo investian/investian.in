@@ -126,25 +126,6 @@ sections:
     feature_padding_vert: small
     background_color: primary
   - type: grid_section
-    title: Our Investor's Toolkit
-    actions: []
-    grid_items:
-      - title_align: center
-        image: images/interesting-tortoise.png
-        image_position: top
-      - title_align: center
-        image: images/trendlyne.png
-        image_position: top
-      - title_align: center
-        image: images/unique-mint.png
-        image_position: top
-      - title_align: center
-        image: images/fabulous-moon.png
-        image_position: top
-    grid_cols: four
-    align: center
-    background_color: none
-  - type: grid_section
     title: Testimonials
     subtitle: Our Community speaks
     grid_items:
