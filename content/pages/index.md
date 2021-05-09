@@ -44,10 +44,18 @@ sections:
         media_position: right
         media_width: fifty
       - title: Hands-on approach to analyze financial reports
-        content: >+
-          In-depth Financial Ratio analysis + Demystifying the 3 key decisions
-          every company make (Capital Budgeting, Leverage & Dividends)
+        content: >
+          Demystifying the 3 key decisions every company make & it's impact on
+          share price 
 
+
+          *   Capital Budgeting, 
+
+
+          *   Leverage 
+
+
+          *   Dividends declaration
         actions:
           - label: Learn More
             url: /style-guide
