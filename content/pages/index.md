@@ -137,6 +137,18 @@ sections:
     grid_gap_vert: large
     align: center
     background_color: secondary
+  - type: cta_section
+    title: It's never too late to start making your money work for you.
+    actions:
+      - label: Join now
+        url: /features
+        style: secondary
+    actions_position: right
+    actions_width: fourty
+    align: left
+    padding_top: large
+    padding_bottom: large
+    background_color: primary
   - type: features_section
     features:
       - title: Our vision
@@ -156,18 +168,6 @@ sections:
         media_position: right
         media_width: thirty-three
     feature_padding_vert: small
-    background_color: primary
-  - type: cta_section
-    title: It's never too late to start making your money work for you.
-    actions:
-      - label: Join now
-        url: /features
-        style: secondary
-    actions_position: right
-    actions_width: fourty
-    align: left
-    padding_top: large
-    padding_bottom: large
     background_color: primary
   - type: grid_section
     title: Cards Grid Section
