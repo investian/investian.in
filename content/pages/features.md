@@ -66,7 +66,7 @@ sections:
         image: images/classic/icon-3.svg
         image_alt: Item 3 icon
         image_position: top
-        image_align: left
+        image_align: center
         image_has_padding: true
       - title_align: left
         content_align: left
