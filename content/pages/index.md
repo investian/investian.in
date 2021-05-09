@@ -202,7 +202,7 @@ sections:
     grid_gap_vert: small
     enable_cards: true
     align: center
-    background_color: primary
+    background_color: secondary
   - type: grid_section
     title: Strategies from the Legendary investors
     subtitle: 'Also inside: Wisdom bites'
