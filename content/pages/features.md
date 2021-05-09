@@ -27,10 +27,9 @@ sections:
         image: images/M3-Ch4-chart1.jpg
       - title: Key Frameworks to understand businesses & pick the right stocks
         subtitle: 'Donec nisl ligula, cursus id molestie vel. '
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: |+
+          SWOT, Porter's 5 forces, PESTLE, Value Chain Analysis, DuPont Analysis
+
         image: images/about-1.jpg
         image_alt: Happy co-workers
         media_position: right
