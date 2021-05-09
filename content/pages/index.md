@@ -93,7 +93,7 @@ sections:
         subtitle: >-
           FREE simulation tools for equity research and real-time portfolio
           management
-        image: images/f84aa6_a952144e15b9431db027c3979e1fbebe_mv2.webp
+        image: images/13716.jpg
         image_alt: Brandon Guidelines
         media_position: right
         media_width: thirty-three
