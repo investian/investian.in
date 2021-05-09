@@ -89,9 +89,7 @@ sections:
     subtitle: Workshops & courses starting just @₹99!
   - type: features_section
     features:
-      - title: >-
-          “Stackbit is fast! Themes are always up to date. It’s easy to use
-          across the organization, and collaboration is easy.”
+      - title: Author
         subtitle: 'Srikumar Ravindran, Founder - Investian'
         image: images/square-bee.jpg
         image_alt: Brandon Guidelines
