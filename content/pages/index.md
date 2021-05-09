@@ -61,7 +61,9 @@ sections:
         media_width: fifty
         subtitle: Understanding the 3 financial statements
       - title: Time-tested Frameworks to understand businesses
-        subtitle: 'SWOT, Porter''s 5 forces, PESTLE, Value Chain Analysis, DuPont Analysis'
+        subtitle: >-
+          SWOT, Porter's 5 forces, PESTLE, Value Chain Analysis, DuPont
+          Analysis, 
         content: |+
           A Primer in DCF & Multiples based Valuations
 
