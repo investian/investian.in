@@ -97,10 +97,10 @@ sections:
           individuals, equity trading is generally synonymous to speculation &
           involves complex trading charts and indicators that later becomes
           obsolete. And this myth has to be broken. At Investian community, our
-          core investment philosophy involves in-depth fundamental research and
-          building systematic strategies to pick high-quality stocks and build a
-          strong recession-proof portfolio to yield consistent risk-adjusted
-          returns in the long run.
+          core philosophy involves in-depth fundamental research and building
+          systematic strategies to pick high-quality stocks and build a strong
+          recession-proof portfolio to yield consistent risk-adjusted returns in
+          the long run.
         image: images/square-bee.jpg
         image_alt: Brandon Guidelines
         media_position: right
