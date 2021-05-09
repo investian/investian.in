@@ -59,6 +59,7 @@ sections:
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: fifty
+        subtitle: Understanding the 3 financial statements
       - title: The Big Title For the Feature
         subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
         content: >-
