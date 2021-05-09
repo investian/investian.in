@@ -120,7 +120,7 @@ sections:
     background_color: secondary
   - type: grid_section
     title: Testimonials
-    subtitle: Grid Section Example
+    subtitle: Our Community speaks
     grid_items:
       - title: Section Item 1
         title_align: left
