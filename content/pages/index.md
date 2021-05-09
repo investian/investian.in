@@ -203,12 +203,13 @@ sections:
         image_alt: Eleanor Carr
         image_position: left
         image_width: twenty-five
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+      - content: >
+          The only way one should buy stocks is if you understand the underlying
+          business. You stay within the circle of competence. You buy businesses
+          you understand.
 
 
-          **Gordon Norman,** *Web Designer, Studio*
+          **Mohnish Pabrai,** Author: The Dhandho Investor
         image: images/majestic-avocado.jpg
         image_alt: Gordon Norman
         image_position: left
