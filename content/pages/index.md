@@ -25,7 +25,9 @@ sections:
   - type: features_section
     title: Applied Equity Research Course
     features:
-      - title: A systematic framework to pick the profitable stocks
+      - title: >-
+          learn "How to Pick the right Stocks" in the most systematic and
+          practical way
         subtitle: Unboxing the Investor's basic toolkit
         content: |
           MoneyControl, Screener, Tickertape, Tijori Finance, Trendlyne
