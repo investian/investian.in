@@ -67,7 +67,7 @@ sections:
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: fifty
-        subtitle: 'Understanding the 3 financial statements + Ratio analysis '
+        subtitle: 'Understanding the 3 financial statements + Key Ratio analysis '
       - title: Time-tested Frameworks to understand businesses
         subtitle: >-
           SWOT, Porter's 5 forces, PESTLE, Value Chain Analysis, DuPont
