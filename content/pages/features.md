@@ -8,7 +8,7 @@ sections:
   - type: features_section
     features:
       - title: Scanning the Macroeconomic & Industry trends
-        subtitle: 'Odio et tortor laoreet, sed interdum augue ornare. '
+        subtitle: Investor's basic toolkit
         content: |
           MoneyControl, Screener, Tickertape, Tijori Finance, Trendlyne
 
