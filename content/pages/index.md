@@ -90,7 +90,7 @@ sections:
   - type: features_section
     features:
       - title: About
-        subtitle: 'Srikumar Ravindran, Founder - Investian'
+        subtitle: 'Hi, I''m Srikumar Ravindran, founder of Investian.'
         image: images/square-bee.jpg
         image_alt: Brandon Guidelines
         media_position: right
