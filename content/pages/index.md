@@ -255,7 +255,7 @@ sections:
     padding_top: medium
     padding_bottom: medium
     has_border: false
-    background_color: none
+    background_color: secondary
   - type: cta_section
     title: It's never too late to start making your money work for you.
     actions:
