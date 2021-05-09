@@ -303,8 +303,7 @@ sections:
       - image: images/logo-black.f44abb4998d1.svg
         image_alt: Netlify logo
         image_align: center
-      - image: images/Logo-trendlyne.svg
-        image_alt: Gatsby logo
+      - image_alt: Gatsby logo
         image_align: center
       - image: images/neostox-logo-beta-2.png
         image_alt: Sanity logo
