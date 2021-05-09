@@ -320,6 +320,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
+        image: images/screener.png
       - image: images/logo-5.svg
         image_alt: DatoCMS logo
         image_align: center
