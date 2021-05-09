@@ -11,9 +11,9 @@ sections:
       - title: Our Vision
         content: >
           Hi, I'm Srikumar Ravindran, founder of Investian. The vision of
-          Investian is  *to build a vibrant open community of passionate finance
+          Investian is  to build a vibrant open community of passionate finance
           enthusiasts and make the 'Power of Investing' accessible to every
-          Indian. *
+          Indian. 
 
 
           For individuals, equity trading is generally synonymous to speculation
