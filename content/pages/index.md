@@ -83,7 +83,7 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: secondary
-    subtitle: No complex trading charts & technical jargon
+    subtitle: No more betting on complex trading charts & technical jargon
   - type: features_section
     features:
       - title: >-
