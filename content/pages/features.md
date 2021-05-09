@@ -36,7 +36,7 @@ sections:
         media_width: fifty
   - type: grid_section
     title: >-
-      Free simulation tools for equity research and real-time portfolio
+      Free simulation tools for Equity research and Real-time Portfolio
       management
     subtitle: BONUS
     grid_items:
