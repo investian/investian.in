@@ -19,7 +19,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: features_section
-    title: Introducing a systematic & practical framework to pick the right stocks
+    title: A systematic & practical framework to pick the right stocks
     features:
       - title: Applied Equity Research Course
         subtitle: >-
