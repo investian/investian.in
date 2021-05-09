@@ -21,7 +21,7 @@ sections:
   - type: features_section
     title: A systematic & practical framework to pick the right stocks
     features:
-      - title: Applied Equity Research Masterclass
+      - title: Applied Equity Research
         subtitle: >-
           Explained with live practical case studies from listed companies in
           NSE
