@@ -35,7 +35,9 @@ sections:
         media_position: right
         media_width: fifty
   - type: grid_section
-    title: Cards Section
+    title: >-
+      FREE simulation tools for equity research and real-time portfolio
+      management
     subtitle: Grid Section Example
     grid_items:
       - title: Section Item 1
