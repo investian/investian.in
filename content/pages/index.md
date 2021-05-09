@@ -26,7 +26,7 @@ sections:
     title: Applied Equity Research Course
     subtitle: A systematic framework to pick the profitable stocks
     features:
-      - title: Unboxing the Investor's basic toolkit
+      - title: Scanning the Macroeconomic & Industry trends
         subtitle: Unboxing the Investor's basic toolkit
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
