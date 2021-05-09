@@ -202,7 +202,7 @@ sections:
     background_color: secondary
   - type: grid_section
     title: Strategies from the Legendary investors
-    subtitle: 'Also inside: Wisdom bites'
+    subtitle: 'Also included inside: Wisdom bites'
     grid_items:
       - content: >
           We were not taught financial literacy in school. The most important
