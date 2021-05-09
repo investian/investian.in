@@ -95,10 +95,8 @@ sections:
         media_position: right
         media_width: thirty-three
         content: >
-
-
           *   Understand the nuances of Equity Research and how you can apply it
-          to create long-term wealth through investing 
+          to create long-term wealth through investing
 
 
           *   Identify moats and analyze specific sectors to build your circle
@@ -111,6 +109,13 @@ sections:
 
           *   Simulate a portfolio of handpicked quality stocks and backtest the
           performance
+
+
+          *   ***BONUS:*** A practical simulation case study for buying/selling
+          equities in real-time market and constructing an virtual portfolio
+          worth ₹10,00,000 and backtest it's performance. All for free.
+
+
 
 
           *All for just ₹99!*
