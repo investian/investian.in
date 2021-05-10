@@ -176,7 +176,7 @@ sections:
     feature_padding_vert: small
     align: center
     padding_top: small
-    padding_bottom: medium
+    padding_bottom: small
     has_border: false
     background_color: secondary
     background_image_opacity: 0
