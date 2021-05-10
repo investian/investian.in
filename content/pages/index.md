@@ -139,7 +139,7 @@ sections:
         image_align: center
         image_has_padding: true
         subtitle: 'Analyst, Citi Bank'
-      - title: Section Item 2
+      - title: Dheeraj Singh
         title_align: left
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
