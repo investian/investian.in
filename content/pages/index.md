@@ -158,7 +158,7 @@ sections:
         content_align: left
         actions: []
         actions_align: left
-        image: images/mohnish.png
+        image: images/unique-lavender.jpg
         image_alt: Section item 3 icon
         image_position: top
         image_align: center
