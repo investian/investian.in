@@ -189,6 +189,7 @@ sections:
         url: /features
         style: secondary
         has_icon: true
+        icon: arrow-right
     actions_position: right
     actions_width: fourty
     align: left
