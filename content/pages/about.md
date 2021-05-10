@@ -61,7 +61,7 @@ sections:
         actions: []
         actions_align: left
         actions_width: auto
-        image: images/imp.jpg
+        image: images/communitity.png
         image_position: left
         image_width: sixty
         subtitle: >-
