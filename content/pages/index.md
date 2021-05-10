@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Investian
 sections:
   - type: hero_section
     title: "Power of Investing made accessible to every Indian\_\U0001F1EE\U0001F1F3"
