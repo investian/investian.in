@@ -162,8 +162,7 @@ sections:
   - title: Join the comminity
     subtitle: lorem-ipsum
     features:
-      - title: lorem-ipsum
-        subtitle: lorem-ipsum
+      - subtitle: lorem-ipsum
         content: >
           Join our strong community of professionals, investors, students,
           finance enthusiasts looking to build, network, and grow.
