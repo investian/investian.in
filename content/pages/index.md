@@ -122,7 +122,6 @@ sections:
     background_color: primary
   - type: grid_section
     title: Strategies from the Legendary investors
-    subtitle: 'Also included inside: Wisdom Bites'
     grid_items:
       - title_align: left
         content: "We were not taught financial literacy in school. The most important thing to realize is that when money is in good hands, it wants to stay & keep multiplying in those hands.\n\n**Warren Buffer,**\_CEO Berkshire Hathaway\n"
