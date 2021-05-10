@@ -183,5 +183,6 @@
             }
         ]
     },
-    "domain": "https://investian.netlify.app"
+    "domain": "https://investian.netlify.app",
+    "favicon": "images/amazing-eucalyptus.png"
 }
