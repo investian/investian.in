@@ -2,7 +2,8 @@
 title: Finance Minister announces budget 2021
 subtitle: lorem-ipsum
 date: '2021-05-10'
-categories: []
+categories:
+  - content/data/categories/tutorials.yaml
 tags: []
 excerpt: lorem-ipsum
 thumb_image_alt: lorem-ipsum
