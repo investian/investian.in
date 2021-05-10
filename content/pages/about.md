@@ -30,7 +30,7 @@ sections:
           investments and build a strong recession-proof portfolio to yield
           consistent risk-adjusted returns in the long run.
 
-        image: images/about-2.jpg
+        image: images/RI44.jpg
         image_alt: People in a conference room
         media_position: left
         media_width: fifty
