@@ -135,12 +135,12 @@ sections:
     grid_items:
       - title_align: left
         content: >
-          ##### Should I have any pre-requisite knowledge to attend this
+          #### Should I have any pre-requisite knowledge to attend this
           masterclass?
 
 
           Not at all. People from non-finance/engineering background can also
-          participate. 
+          participate.
         content_align: left
         actions: []
         actions_align: left
