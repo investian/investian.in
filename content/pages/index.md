@@ -156,17 +156,6 @@ sections:
           frameborder="0" onmousewheel="" width="100%" height="533"
           style="background: transparent; border: 1px solid #ccc;"></iframe>
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
         content_align: left
         actions: []
         actions_align: left
