@@ -64,55 +64,6 @@ sections:
     type: hero_section
     image: images/royal-mustard.jpg
   - type: grid_section
-    title: Unboxing the Investor's basic toolkit
-    subtitle: BONUS
-    grid_items:
-      - title_align: left
-        content_align: left
-        actions: []
-        actions_align: left
-        image: images/incredible-amaranth.png
-        image_alt: Item 1 icon
-        image_position: top
-        image_align: center
-        image_has_padding: true
-        image_width: twenty-five
-      - title_align: center
-        content_align: center
-        actions: []
-        actions_align: left
-        image: images/caring-oregano.png
-        image_alt: Item 2 icon
-        image_position: top
-        image_align: center
-        image_has_padding: true
-      - title_align: left
-        content_align: left
-        actions: []
-        actions_align: left
-        image: images/smiling-birch.png
-        image_alt: Item 3 icon
-        image_position: top
-        image_align: center
-        image_has_padding: true
-      - title_align: left
-        content_align: left
-        actions: []
-        actions_align: left
-        image: images/unique-crane.png
-        image_alt: Item 4 icon
-        image_position: top
-        image_align: center
-        image_has_padding: true
-    grid_cols: four
-    grid_gap_horiz: medium
-    grid_gap_vert: medium
-    enable_cards: false
-    align: center
-    background_color: none
-    padding_top: medium
-    padding_bottom: small
-  - type: grid_section
     title: Our Community speaks
     subtitle: Testimonials
     grid_items:
