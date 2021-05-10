@@ -29,7 +29,7 @@ sections:
           analysis.
 
 
-          ##### Even if you are from a non-finance background.
+          ###### Even if you are from a non-finance background.
         actions:
           - label: Learn More
             url: /style-guide
