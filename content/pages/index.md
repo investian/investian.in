@@ -12,7 +12,7 @@ sections:
         style: secondary
     image: images/dvg.jpg
     image_alt: Hero section placeholder image
-    media_position: top
+    media_position: left
     media_width: sixty
     align: left
     padding_top: large
