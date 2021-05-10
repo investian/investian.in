@@ -38,7 +38,7 @@ sections:
   - type: grid_section
     title: Investian Community
     grid_items:
-      - title: Some City
+      - title: Become an Investian today!
         content: >
 
           An Exclusive Forum to participate in learning exercises and discuss
