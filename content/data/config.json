@@ -2,7 +2,7 @@
     "title": "Investian",
     "path_prefix": "/",
     "layout_type": "boxed",
-    "style": "minimal",
+    "style": "bold",
     "palette": "gray",
     "mode": "light",
     "base_font": "serif",
