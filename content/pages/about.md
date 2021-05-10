@@ -79,17 +79,11 @@ sections:
   - title: lorem-ipsum
     subtitle: lorem-ipsum
     title_align: left
-    content: >-
-      ## Lorem ipsum
+    content: >+
+      As our community continues to grow, we would like to consolidate the list
+      of people who are part of the community, to facilitate further engagement
+      among members. Drop in your email to join the Investian Community. 
 
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
     content_align: left
     form_position: bottom
     form_width: fifty
