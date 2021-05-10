@@ -109,7 +109,7 @@ sections:
         name: LinkedIn Profile URL
         label: LinkedIn Profile URL
         options: []
-        is_required: false
+        is_required: true
         type: form_field
     submit_label: Join now
     align_vert: top
