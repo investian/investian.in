@@ -150,7 +150,11 @@ sections:
         content: |
           sssd
       - title: lorem-ipsum
-        subtitle: lorem-ipsum
+        subtitle: >-
+          <iframe class="airtable-embed"
+          src="https://airtable.com/embed/shrAo7ZLNyvgRzB0V?backgroundColor=yellow"
+          frameborder="0" onmousewheel="" width="100%" height="533"
+          style="background: transparent; border: 1px solid #ccc;"></iframe>
         title_align: left
         content: >-
           ## Lorem ipsum
