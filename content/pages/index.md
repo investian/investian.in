@@ -154,7 +154,7 @@ sections:
         image_align: center
         image_has_padding: true
         subtitle: MBA Student
-      - title: Section Item 3
+      - title: Mohnish Pabrai
         title_align: left
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
