@@ -1,6 +1,5 @@
 ---
-categories:
-  - content/data/categories/general.yaml
+categories: []
 thumb_image_alt: Post 1 placeholder image
 image: images/classic/post-1.png
 image_alt: Post 1 placeholder image
