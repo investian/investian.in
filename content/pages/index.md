@@ -198,7 +198,7 @@ sections:
     padding_bottom: large
     background_color: primary
 seo:
-  title: Investian- India's Open Investment community
+  title: Investian- India's Investment community
   description: >-
     Power of Investing made accessible to every Indian. Systematic & practical
     frameworks to pick profitable stocks. 
