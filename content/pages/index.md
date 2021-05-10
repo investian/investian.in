@@ -190,6 +190,9 @@ sections:
     background_color: primary
   - features:
       - content: >
+          ![](/images/curious-turtle.png)
+
+
           Join our strong community of professionals, investors, students,
           finance enthusiasts looking to build, network, and grow.
 
