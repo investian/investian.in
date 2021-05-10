@@ -40,8 +40,15 @@ sections:
     grid_items:
       - title: Some City
         content: >
-          Join our strong community of professionals, investors, students,
-          finance enthusiasts looking to build, network, and grow.
+          ###### *Join our strong community of professionals, investors,
+          students, finance enthusiasts looking to build, network, and grow.*
+
+
+          Exclusive Forum to participate in learning exercises and discuss
+          practical examples so that you can gain experience in doing your own
+          independent analysis.
+
+
 
 
           [](mailto:email@example.com)
