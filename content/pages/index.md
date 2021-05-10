@@ -159,8 +159,7 @@ sections:
     enable_cards: true
     align: center
     background_color: secondary
-  - title: Join the comminity
-    subtitle: lorem-ipsum
+  - subtitle: lorem-ipsum
     features:
       - content: >
           Join our strong community of professionals, investors, students,
