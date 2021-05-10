@@ -204,12 +204,11 @@ sections:
         type: grid_item
       - title_align: left
         content: >
-          #### Where do I pay for the masterclass?
+          #### Why do you charge ₹99 for the course?
 
 
-          You can reserve your ticket for the upcoming masterclass through your
-          preferred payment method (UPI/Net banking) at
-          [Instamojo](www.instamojo.com).
+          Just to get the serious folks who are really passionate about
+          investing and finance and avoid the crowd.
         content_align: left
         actions: []
         actions_align: left
