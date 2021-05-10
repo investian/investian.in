@@ -121,7 +121,7 @@ sections:
     feature_padding_vert: small
     background_color: primary
   - type: grid_section
-    title: Testimonials
+    title: Strategies from the Legendary investors
     subtitle: Our Community speaks
     grid_items:
       - title_align: left
