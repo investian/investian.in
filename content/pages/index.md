@@ -143,7 +143,7 @@ sections:
         content_align: left
         actions: []
         actions_align: left
-        image: images/testi.jpg
+        image: images/remarkable-sloth.jpg
         image_alt: Section item 2 icon
         image_position: top
         image_align: center
