@@ -76,7 +76,7 @@ sections:
     padding_bottom: medium
     has_border: true
     background_color: none
-  - title: lorem-ipsum
+  - title: Become an Investian today!
     subtitle: lorem-ipsum
     title_align: left
     content: >
