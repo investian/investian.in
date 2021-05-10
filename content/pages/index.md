@@ -159,8 +159,7 @@ sections:
     enable_cards: true
     align: center
     background_color: secondary
-  - subtitle: lorem-ipsum
-    features:
+  - features:
       - content: >
           Join our strong community of professionals, investors, students,
           finance enthusiasts looking to build, network, and grow.
