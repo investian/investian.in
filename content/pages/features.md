@@ -187,7 +187,7 @@ sections:
         type: grid_item
       - title_align: left
         content: >
-          ## How do I access the masterclass?
+          #### How do I access the masterclass?
 
 
           The masterclass is organized over Google Meet on every weekends. You
