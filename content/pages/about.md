@@ -20,15 +20,15 @@ sections:
         media_width: fifty
       - title: Our Philosophy
         content: >+
+          For individuals, equity trading is generally synonymous to speculation
+          & involves complex trading charts and indicators that later becomes
+          obsolete. And this myth has to be broken.
+
+
           At Investian, our core philosophy involves in-depth fundamental
           research and building systematic strategies to pick high-quality
           investments and build a strong recession-proof portfolio to yield
           consistent risk-adjusted returns in the long run.
-
-
-          For individuals, equity trading is generally synonymous to speculation
-          & involves complex trading charts and indicators that later becomes
-          obsolete. And this myth has to be broken.
 
         image: images/about-2.jpg
         image_alt: People in a conference room
