@@ -135,7 +135,6 @@ sections:
         image_position: top
         image_align: center
         image_has_padding: true
-        subtitle: 'Analyst, Citi Bank'
       - title: Dheeraj Singh
         title_align: left
         content: >-
