@@ -136,10 +136,7 @@ sections:
         image_has_padding: true
       - title: Dheeraj Singh
         title_align: left
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: "I always thought if you looked at ten companies, you'd find one that's interesting, or if you look at hundred you'll find ten. The person that turns over the most rocks wins the game.\n\n**Peter Lynch,**\_Author: One up on Wall Street\n"
         content_align: left
         actions: []
         actions_align: left
