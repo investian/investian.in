@@ -77,7 +77,7 @@ sections:
     has_border: true
     background_color: none
   - title: Become an Investian today!
-    subtitle: lorem-ipsum
+    subtitle: Our community
     title_align: center
     content: >
 
