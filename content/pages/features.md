@@ -7,7 +7,7 @@ sections:
     background_color: primary
   - type: features_section
     features:
-      - title: Scanning the Macroeconomic & Industry trends
+      - title: Applied Equity Research
         subtitle: >-
           Explained with live practical case studies from listed companies in
           NSE
