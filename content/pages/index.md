@@ -159,7 +159,7 @@ sections:
     enable_cards: true
     align: center
     background_color: secondary
-  - title: lorem-ipsum
+  - title: Join the comminity
     subtitle: lorem-ipsum
     features: []
     feature_padding_vert: medium
