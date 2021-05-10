@@ -124,7 +124,7 @@ sections:
     title: Testimonials
     subtitle: Our Community speaks
     grid_items:
-      - title: Section Item 1
+      - title: 'Shreya Pandey, Analyst-CitiBank'
         title_align: left
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
