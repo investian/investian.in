@@ -65,8 +65,9 @@ sections:
         image_position: left
         image_width: sixty
         subtitle: >-
-          Join our strong community of professionals, investors, students,
-          finance enthusiasts looking to build, network, and grow.
+          An Exclusive Forum to participate in learning exercises and discuss
+          practical examples so that you can gain experience in doing your own
+          independent analysis.
     grid_cols: two
     grid_gap_horiz: large
     grid_gap_vert: large
