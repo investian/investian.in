@@ -180,7 +180,6 @@ sections:
     background_color: secondary
   - type: cta_section
     title: It's never too late to start making your money work for you.
-    content: Ut egestas elementum suscipit. Quisque at hendrerit mauris.
     actions: []
     actions_position: right
     align: left
