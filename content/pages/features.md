@@ -18,7 +18,7 @@ sections:
         image_alt: Top view of business meeting
         media_position: right
         media_width: fifty
-      - title: Picking key information from the company's annual reports
+      - title: Hands-on approach to analyze financial reports
         subtitle: Understanding the 3 financial statements
         content: >
           In-depth Financial Ratio analysis + Demystifying the 3 key decisions
