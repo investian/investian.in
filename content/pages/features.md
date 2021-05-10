@@ -2,7 +2,7 @@
 title: Features
 sections:
   - type: hero_section
-    title: Equity Research in Practice
+    title: Equity Research Masterclass
     subtitle: A Systematic way to pick Profitable Stocks
     background_color: primary
   - type: features_section
