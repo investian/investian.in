@@ -199,7 +199,9 @@ sections:
     background_color: primary
 seo:
   title: Investian- India's largest Investment community
-  description: The preview of the DIY theme
+  description: >-
+    Power of Investing made accessible to every India. Systematic & practical
+    frameworks to pick profitable stocks. 
   extra:
     - name: 'og:type'
       value: website
