@@ -176,7 +176,8 @@ sections:
 
 
           The masterclass is organized over Google Meet on every weekends. You
-          can access the next live schedule in this [link](www.facebook.com).
+          can updates for the next live session at our [telegram
+          group](www.telegram.org). 
         content_align: left
         actions: []
         actions_align: left
