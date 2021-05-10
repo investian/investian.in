@@ -129,7 +129,7 @@ sections:
         content_align: left
         actions: []
         actions_align: left
-        image: images/amazing-paprika.png
+        image: images/good-eucalyptus.jpg
         image_alt: Section item 1 icon
         image_position: top
         image_align: center
