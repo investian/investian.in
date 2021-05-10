@@ -157,8 +157,8 @@ sections:
 
 
           Yes! You would be awarded a certificate of participation that you can
-          add to your LinkedIn Resume, and it would be of great value to break
-          into Equity Research/Investment banking industry. 
+          add to your LinkedIn Resume. It would be of great value to break into
+          Equity Research/Investment banking industry.
         content_align: left
         actions: []
         actions_align: left
