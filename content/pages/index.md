@@ -175,7 +175,7 @@ sections:
         type: feature
     feature_padding_vert: small
     align: center
-    padding_top: medium
+    padding_top: small
     padding_bottom: medium
     has_border: false
     background_color: secondary
