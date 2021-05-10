@@ -180,7 +180,16 @@ sections:
     background_color: secondary
   - type: cta_section
     title: It's never too late to start making your money work for you.
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
+        type: action
     actions_position: right
     align: left
     padding_top: medium
