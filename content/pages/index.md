@@ -189,8 +189,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - features:
-      - title: lorem-ipsum
-        content: >
+      - content: >
           Join our strong community of professionals, investors, students,
           finance enthusiasts looking to build, network, and grow.
 
