@@ -8,7 +8,9 @@ sections:
   - type: features_section
     features:
       - title: Scanning the Macroeconomic & Industry trends
-        subtitle: Unboxing the Investor's basic toolkit
+        subtitle: >-
+          Explained with live practical case studies from listed companies in
+          NSE
         content: |
           MoneyControl, Screener, Tickertape, Tijori Finance, Trendlyne
 
