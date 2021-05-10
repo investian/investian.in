@@ -172,7 +172,7 @@ sections:
         image_alt: Investian Community
         media_position: top
         media_width: fourty
-        align: center
+        align: left
         type: feature
         image: images/best-petunia.png
     feature_padding_vert: small
