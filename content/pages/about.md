@@ -90,7 +90,7 @@ sections:
 
       Join our strong community of professionals, investors, students, finance
       enthusiasts looking to build, network, and grow.
-    content_align: left
+    content_align: right
     form_position: right
     form_width: fifty
     form_layout: stacked
