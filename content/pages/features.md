@@ -110,7 +110,7 @@ sections:
 
 
           **Eleanor Carr,** *CTO, Studio*
-        image: images/eleanor-carr.png
+        image: images/kind-dolphin.jpg
         image_alt: Eleanor Carr
         image_position: left
         image_width: twenty-five
