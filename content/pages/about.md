@@ -60,6 +60,7 @@ sections:
         actions_align: left
         actions_width: auto
         image: images/wewrap.jpg
+        image_position: right
     grid_cols: two
     grid_gap_horiz: large
     grid_gap_vert: large
