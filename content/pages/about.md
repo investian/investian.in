@@ -79,11 +79,16 @@ sections:
   - title: lorem-ipsum
     subtitle: lorem-ipsum
     title_align: left
-    content: >+
+    content: >
+
+
+      Join our strong community of professionals, investors, students, finance
+      enthusiasts looking to build, network, and grow.
+
+
       As our community continues to grow, we would like to consolidate the list
       of people who are part of the community, to facilitate further engagement
-      among members. Drop in your email to join the Investian Community. 
-
+      among members. Drop in your email to join the Investian Community.
     content_align: left
     form_position: right
     form_width: fifty
