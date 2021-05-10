@@ -103,7 +103,7 @@ sections:
         label: e-mail
         default_value: lorem-ipsum
         options: []
-        is_required: false
+        is_required: true
         type: form_field
     submit_label: Join now
     align_vert: top
