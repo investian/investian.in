@@ -221,7 +221,7 @@ seo:
     - name: 'twitter:title'
       value: Investian
     - name: 'twitter:description'
-      value: The preview of the DIY theme
+      value: Investian- India's largest Investment community
     - name: 'twitter:image'
       value: images/diy-preview.png
       relativeUrl: true
