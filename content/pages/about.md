@@ -14,7 +14,7 @@ sections:
           Indian by building a vibrant open community of passionate finance
           enthusiasts & investors.
 
-        image: images/Asset 1@0.75x.png
+        image: images/2000-min.jpg
         image_alt: People in conversation in the office lounge area
         media_position: right
         media_width: fifty
