@@ -124,8 +124,7 @@ sections:
         image_alt: Gordon Norman
         image_position: left
         image_width: twenty-five
-      - subtitle: lorem-ipsum
-        title_align: left
+      - title_align: left
         content: >-
           ## Lorem ipsum
 
