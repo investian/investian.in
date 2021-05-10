@@ -9,21 +9,11 @@ sections:
   - type: features_section
     features:
       - title: Our Vision
-        content: >
+        content: >+
           Investian aims to make the 'Power of Investing' accessible to every
           Indian by building a vibrant open community of passionate finance
           enthusiasts & investors.
 
-
-          For individuals, equity trading is generally synonymous to speculation
-          & involves complex trading charts and indicators that later becomes
-          obsolete. And this myth has to be broken.
-
-
-          At Investian, our core philosophy involves in-depth fundamental
-          research and building systematic strategies to pick high-quality
-          investments and build a strong recession-proof portfolio to yield
-          consistent risk-adjusted returns in the long run.
         image: images/Asset 1@0.75x.png
         image_alt: People in conversation in the office lounge area
         media_position: right
