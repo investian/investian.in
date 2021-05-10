@@ -108,7 +108,6 @@ sections:
       - input_type: text
         name: LinkedIn Profile URL
         label: LinkedIn Profile URL
-        default_value: lorem-ipsum
         options: []
         is_required: false
         type: form_field
