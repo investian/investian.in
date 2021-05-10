@@ -147,6 +147,8 @@ sections:
         image_position: top
         image_align: center
         image_has_padding: true
+        content: |
+          ssdsd
     grid_cols: two
     grid_gap_horiz: small
     grid_gap_vert: small
