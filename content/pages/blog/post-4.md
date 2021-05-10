@@ -6,7 +6,6 @@ subtitle: >-
 date: '2020-05-30'
 categories:
   - content/data/categories/tutorials.yaml
-  - content/data/categories/news.yaml
 tags:
   - content/data/tags/jamstack.yaml
   - content/data/tags/sourcebit.yaml
