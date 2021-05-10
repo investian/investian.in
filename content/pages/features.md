@@ -99,7 +99,7 @@ sections:
     align: center
     background_color: none
     padding_top: medium
-    padding_bottom: medium
+    padding_bottom: small
   - type: grid_section
     title: Reviews Section
     subtitle: Grid Section Example
