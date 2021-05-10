@@ -134,8 +134,7 @@ sections:
         image_position: top
         image_align: center
         image_has_padding: true
-      - title: Dheeraj Singh
-        title_align: left
+      - title_align: left
         content: "I always thought if you looked at ten companies, you'd find one that's interesting, or if you look at hundred you'll find ten. The person that turns over the most rocks wins the game.\n\n**Peter Lynch,**\_Author: One up on Wall Street\n"
         content_align: left
         actions: []
