@@ -140,7 +140,8 @@ sections:
 
 
           Not at all. People from non-finance/engineering background can also
-          participate.
+          participate. All you need is curiosity to learn about finance &
+          investments. 
         content_align: left
         actions: []
         actions_align: left
