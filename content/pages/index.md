@@ -144,8 +144,7 @@ sections:
         image_position: top
         image_align: center
         image_has_padding: true
-      - title: Mohnish Pabrai
-        title_align: left
+      - title_align: left
         content: "Never put your hard earned money without proper research. Never invest according to “Stock tips”.\n\n**Rakesh Jhunjhunwala,**\_*Indian Investor*\n"
         content_align: left
         actions: []
