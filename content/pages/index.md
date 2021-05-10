@@ -201,7 +201,7 @@ sections:
           and discuss practical examples so that you can gain experience in
           doing your own independent analysis.
         actions:
-          - label: lorem-ipsum
+          - label: Join Telegram
             url: '#'
             style: link
             has_icon: false
