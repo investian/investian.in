@@ -147,7 +147,20 @@
                 "new_window": true
             }
         ],
-        "content": "&copy; Investian. All rights reserved. Disclaimer: We are not Sebi registered investment advisors. All content is only meant for education purpose and nothing constitutes as an investment advice."
+        "content": "&copy; Investian. All rights reserved. Disclaimer: We are not Sebi registered investment advisors. All content is only meant for education purpose and nothing constitutes as an investment advice.",
+        "links": [
+            {
+                "label": "lorem-ipsum",
+                "url": "#",
+                "style": "link",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "right",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            }
+        ]
     },
     "domain": "https://investian.netlify.app"
 }
