@@ -79,17 +79,18 @@ sections:
   - title: Become an Investian today!
     subtitle: Our community
     title_align: center
-    content: >
+    content: >+
       ![](/images/green-giraffe.png)
-
-
-      An Exclusive Forum to participate in learning exercises and discuss
-      practical examples so that you can gain experience in doing your own
-      independent analysis.
 
 
       Join our strong community of professionals, investors, students, finance
       enthusiasts looking to build, network, and grow.
+
+
+      Get access to an Exclusive Forum to participate in learning exercises and
+      discuss practical examples so that you can gain experience in doing your
+      own independent analysis.
+
     content_align: left
     form_position: right
     form_width: fourty
