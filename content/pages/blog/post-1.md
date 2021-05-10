@@ -1,5 +1,4 @@
 ---
-date: '2020-04-16'
 categories:
   - content/data/categories/tutorials.yaml
   - content/data/categories/general.yaml
