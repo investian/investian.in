@@ -102,7 +102,7 @@ sections:
     padding_bottom: small
   - type: grid_section
     title: Our Community speaks
-    subtitle: Grid Section Example
+    subtitle: Testimonials
     grid_items:
       - content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
