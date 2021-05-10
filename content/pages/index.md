@@ -165,11 +165,9 @@ sections:
             type: action
         image_alt: lorem-ipsum
         video_embed_html: >-
-          <script
-          src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script><iframe
-          class="airtable-embed airtable-dynamic-height"
+          <iframe class="airtable-embed"
           src="https://airtable.com/embed/shrdAwkqCIJm22cRA?backgroundColor=yellow"
-          frameborder="0" onmousewheel="" width="100%" height="714"
+          frameborder="0" onmousewheel="" width="100%" height="533"
           style="background: transparent; border: 1px solid #ccc;"></iframe>
         media_position: right
         media_width: fifty
