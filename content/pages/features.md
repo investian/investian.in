@@ -72,7 +72,7 @@ sections:
         content_align: left
         actions: []
         actions_align: left
-        image: images/successful-pineapple.png
+        image: images/unique-crane.png
         image_alt: Item 4 icon
         image_position: top
         image_align: center
