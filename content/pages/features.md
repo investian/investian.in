@@ -169,13 +169,12 @@ sections:
         image_has_padding: false
         type: grid_item
       - title_align: left
-        content: >+
-          ## Why do you charge ₹99 for masterclass?
+        content: >
+          #### Why do you charge ₹99 for masterclass?
 
 
           Just to get the serious folks who are really passionate about
-          investing and finance and avoid the crowd. 
-
+          investing and finance and avoid the crowd.
         content_align: left
         actions: []
         actions_align: left
