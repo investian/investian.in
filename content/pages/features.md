@@ -1,5 +1,5 @@
 ---
-title: Features
+title: Masterclass
 sections:
   - type: hero_section
     title: Equity Research Masterclass
