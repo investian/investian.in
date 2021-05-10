@@ -44,7 +44,7 @@ sections:
         content_align: left
         actions: []
         actions_align: left
-        image: images/classic/icon-1.svg
+        image: images/best-mint.png
         image_alt: Item 1 icon
         image_position: top
         image_align: center
