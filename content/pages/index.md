@@ -196,7 +196,6 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-  - null
 seo:
   title: Stackbit DIY Theme
   description: The preview of the DIY theme
