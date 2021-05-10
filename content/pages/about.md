@@ -116,7 +116,7 @@ sections:
         options: []
         is_required: true
         type: form_field
-    submit_label: Join now
+    submit_label: Join Telegram Group
     align_vert: top
     padding_top: small
     padding_bottom: medium
