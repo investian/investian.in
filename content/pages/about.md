@@ -18,7 +18,7 @@ sections:
         image_alt: People in conversation in the office lounge area
         media_position: right
         media_width: fifty
-      - title: Investian Community
+      - title: Our Philosophy
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: >+
           At Investian, our core philosophy involves in-depth fundamental
