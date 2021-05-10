@@ -188,8 +188,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-  - subtitle: lorem-ipsum
-    features:
+  - features:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         content: >-
