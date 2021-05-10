@@ -83,7 +83,7 @@ sections:
     enable_cards: false
     align: center
     background_color: none
-  - title: lorem-ipsum
+  - title: Join the Equity Research practical masterclass now
     subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
