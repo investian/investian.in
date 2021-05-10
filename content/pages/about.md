@@ -78,7 +78,7 @@ sections:
     background_color: none
   - title: Become an Investian today!
     subtitle: lorem-ipsum
-    title_align: left
+    title_align: center
     content: >
 
 
