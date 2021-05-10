@@ -101,7 +101,7 @@ sections:
     padding_top: medium
     padding_bottom: small
   - type: grid_section
-    title: Reviews Section
+    title: Our Community speaks
     subtitle: Grid Section Example
     grid_items:
       - content: >-
