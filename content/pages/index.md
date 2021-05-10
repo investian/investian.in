@@ -133,7 +133,7 @@ sections:
         content_align: left
         actions: []
         actions_align: left
-        image: images/shreya.png
+        image: images/splendid-plankton.jpg
         image_alt: Section item 1 icon
         image_position: top
         image_align: left
