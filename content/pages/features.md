@@ -54,7 +54,7 @@ sections:
         content_align: center
         actions: []
         actions_align: left
-        image: images/scientific-cabbage.png
+        image: images/caring-oregano.png
         image_alt: Item 2 icon
         image_position: top
         image_align: center
