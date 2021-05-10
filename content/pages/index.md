@@ -200,7 +200,7 @@ sections:
 seo:
   title: Investian- India's largest Investment community
   description: >-
-    Power of Investing made accessible to every India. Systematic & practical
+    Power of Investing made accessible to every Indian. Systematic & practical
     frameworks to pick profitable stocks. 
   extra:
     - name: 'og:type'
