@@ -40,10 +40,10 @@ sections:
     grid_items:
       - title: Become an Investian today!
         content: >
+          Join our strong community of professionals, investors, students,
+          finance enthusiasts looking to build, network, and grow.
 
-          An Exclusive Forum to participate in learning exercises and discuss
-          practical examples so that you can gain experience in doing your own
-          independent analysis.
+
 
 
           [](mailto:email@example.com)
