@@ -34,6 +34,23 @@ sections:
         image_alt: Happy co-workers
         media_position: right
         media_width: fifty
+  - title: Join the Equity Research practical masterclass now
+    content: "*   Understand the nuances of Equity Research and how you can apply it to create long-term wealth through investing\n\n*   Identify moats and analyze specific sectors to build your circle of competence\n\n*   Analyze financial statements of businesses & calculate it's Intrinsic Values\n\n***BONUS:***\_A practical simulation case study for buying/selling equities in real-time market and constructing an virtual portfolio of handpicked stocks worth ₹10,00,000 and backtest it's performance.\n\n*All for just ₹99!*\n"
+    actions: []
+    image_alt: lorem-ipsum
+    media_position: right
+    media_width: fourty
+    align: left
+    padding_top: medium
+    padding_bottom: medium
+    has_border: false
+    background_color: primary
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: hero_section
+    image: images/royal-mustard.jpg
   - type: grid_section
     title: >-
       Free simulation tools for Equity research and Real-time Portfolio
@@ -83,23 +100,6 @@ sections:
     enable_cards: false
     align: center
     background_color: none
-  - title: Join the Equity Research practical masterclass now
-    content: "*   Understand the nuances of Equity Research and how you can apply it to create long-term wealth through investing\n\n*   Identify moats and analyze specific sectors to build your circle of competence\n\n*   Analyze financial statements of businesses & calculate it's Intrinsic Values\n\n***BONUS:***\_A practical simulation case study for buying/selling equities in real-time market and constructing an virtual portfolio of handpicked stocks worth ₹10,00,000 and backtest it's performance.\n\n*All for just ₹99!*\n"
-    actions: []
-    image_alt: lorem-ipsum
-    media_position: right
-    media_width: fourty
-    align: left
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: primary
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: hero_section
-    image: images/royal-mustard.jpg
   - type: grid_section
     title: Reviews Section
     subtitle: Grid Section Example
