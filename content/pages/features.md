@@ -139,13 +139,8 @@ sections:
           masterclass?
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          *   Lorem ipsum
-
-          *   dolor sit amet
+          Not at all. People from non-finance/engineering background can also
+          participate. 
         content_align: left
         actions: []
         actions_align: left
