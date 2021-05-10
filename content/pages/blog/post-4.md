@@ -1,5 +1,5 @@
 ---
-title: 80-year old investor reveals is 100-crore options portfolio
+title: Investor reveals how he manages his 100-crore options portfolio
 subtitle: >-
   Negat esse eam, inquit, propter se expetendam. Ergo, si semel tristior
   effectus est, hilara vita amissa est.
