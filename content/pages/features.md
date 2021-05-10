@@ -210,7 +210,8 @@ sections:
 
 
           Just to get the serious folks who are really passionate about
-          investing and finance and avoid the crowd.
+          investing and finance and avoid the crowd. In fact, Investian offers
+          the most affordable equity research course online. 
         content_align: left
         actions: []
         actions_align: left
