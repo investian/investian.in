@@ -172,11 +172,11 @@ sections:
         type: grid_item
       - title_align: left
         content: >
-          #### Why do you charge ₹99 for masterclass?
+          #### How do I access the masterclass?
 
 
-          Just to get the serious folks who are really passionate about
-          investing and finance and avoid the crowd.
+          The masterclass is organized over Google Meet on every weekends. You
+          can access the next live schedule in this [link](www.facebook.com).
         content_align: left
         actions: []
         actions_align: left
