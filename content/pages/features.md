@@ -85,17 +85,7 @@ sections:
     background_color: none
   - title: Join the Equity Research practical masterclass now
     subtitle: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: "*   Understand the nuances of Equity Research and how you can apply it to create long-term wealth through investing\n\n*   Identify moats and analyze specific sectors to build your circle of competence\n\n*   Analyze financial statements of businesses & calculate it's Intrinsic Values\n\n***BONUS:***\_A practical simulation case study for buying/selling equities in real-time market and constructing an virtual portfolio of handpicked stocks worth ₹10,00,000 and backtest it's performance.\n\n*All for just ₹99!*\n"
     actions: []
     image_alt: lorem-ipsum
     media_position: right
