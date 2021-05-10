@@ -198,7 +198,7 @@ sections:
     padding_bottom: large
     background_color: primary
 seo:
-  title: Stackbit DIY Theme
+  title: Investian- India's largest Investment community
   description: The preview of the DIY theme
   extra:
     - name: 'og:type'
