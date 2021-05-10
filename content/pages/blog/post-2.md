@@ -11,7 +11,6 @@ tags:
   - content/data/tags/jamstack.yaml
   - content/data/tags/netlify.yaml
 thumb_image_alt: Post 2 placeholder image
-image: images/classic/post-2.png
 image_alt: Post 2 placeholder image
 image_position: left
 seo:
