@@ -191,17 +191,14 @@ sections:
   - features:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
+        content: >
+          Join our strong community of professionals, investors, students,
+          finance enthusiasts looking to build, network, and grow.
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          Get access to an Exclusive Forum to participate in learning exercises
+          and discuss practical examples so that you can gain experience in
+          doing your own independent analysis.
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
