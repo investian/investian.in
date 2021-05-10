@@ -52,9 +52,7 @@ sections:
     type: hero_section
     image: images/royal-mustard.jpg
   - type: grid_section
-    title: >-
-      Free simulation tools for Equity research and Real-time Portfolio
-      management
+    title: Unboxing the Investor's basic toolkit
     subtitle: BONUS
     grid_items:
       - title_align: left
