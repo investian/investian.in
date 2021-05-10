@@ -63,7 +63,7 @@ sections:
         content_align: left
         actions: []
         actions_align: left
-        image: images/classic/icon-3.svg
+        image: images/good-rabbit.png
         image_alt: Item 3 icon
         image_position: top
         image_align: center
