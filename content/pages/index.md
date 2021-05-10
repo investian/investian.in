@@ -169,7 +169,7 @@ sections:
           and discuss practical examples so that you can gain experience in
           doing your own independent analysis.
         actions: []
-        image_alt: lorem-ipsum
+        image_alt: Investian Community
         media_position: top
         media_width: fifty
         align: left
