@@ -135,8 +135,8 @@ sections:
     grid_items:
       - title_align: left
         content: >
-          ## Should I have any pre-requisite knowledge to attend this
-          masterclass? 
+          ##### Should I have any pre-requisite knowledge to attend this
+          masterclass?
 
 
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
