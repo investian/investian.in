@@ -74,7 +74,7 @@ sections:
     enable_cards: false
     padding_top: medium
     padding_bottom: medium
-    has_border: false
+    has_border: true
     background_color: none
   - type: cta_section
     title: This is a Call to Action
