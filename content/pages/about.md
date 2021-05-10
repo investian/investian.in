@@ -24,7 +24,7 @@ sections:
           research and building systematic strategies to pick high-quality
           investments and build a strong recession-proof portfolio to yield
           consistent risk-adjusted returns in the long run.
-        image: images/futuristic-onion.jpg
+        image: images/groovy-artichoke.png
         image_alt: People in conversation in the office lounge area
         media_position: right
         media_width: fifty
