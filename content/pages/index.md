@@ -22,9 +22,7 @@ sections:
     title: A systematic & practical framework to pick the right stocks
     features:
       - title: Applied Equity Research
-        subtitle: >-
-          Explained with live practical case studies from listed companies in
-          NSE
+        subtitle: Explore with live practical case studies from listed companies in NSE
         content: >
           Stop betting on complex technical charts & useless indicators.
           Understand the core rules and philosophy of investing and business
