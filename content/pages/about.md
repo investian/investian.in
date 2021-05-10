@@ -89,7 +89,8 @@ sections:
     type: form_section
   - type: cta_section
     title: Become an Investian today!
-    content: Ut egestas elementum suscipit. Quisque at hendrerit mauris.
+    content: |
+      It's never too late to start making your hard-earned money work for you.
     actions:
       - label: Compare Plans
         url: /pricing
