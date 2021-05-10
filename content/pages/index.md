@@ -126,10 +126,7 @@ sections:
     grid_items:
       - title: Shreya Pandey
         title_align: left
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: "We were not taught financial literacy in school. The most important thing to realize is that when money is in good hands, it wants to stay & keep multiplying in those hands.\n\n**Warren Buffer,**\_CEO Bershire Hathaway\n"
         content_align: left
         actions: []
         actions_align: left
