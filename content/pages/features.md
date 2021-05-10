@@ -11,10 +11,9 @@ sections:
         subtitle: >-
           Explained with live practical case studies from listed companies in
           NSE
-        content: |
-          MoneyControl, Screener, Tickertape, Tijori Finance, Trendlyne
+        content: |+
+          Scanning the Macroeconomic & Industry trends
 
-          Business news- Livemint, Business Standard, Bloomberg, Reuters.
         image: images/wo1.jpg
         image_alt: Top view of business meeting
         media_position: right
