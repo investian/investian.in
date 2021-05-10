@@ -28,7 +28,7 @@ sections:
         media_position: left
         media_width: fifty
         image: images/M3-Ch4-chart1-1.jpg
-      - title: Key Frameworks to understand businesses & pick the right stocks
+      - title: Time-tested Frameworks to understand businesses
         subtitle: 'SWOT, Porter''s 5 forces, PESTLE, Value Chain Analysis, DuPont Analysis'
         content: |+
           A Primer in DCF & Multiples based Valuations
