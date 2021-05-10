@@ -153,6 +153,7 @@ sections:
         image_position: top
         image_align: center
         image_has_padding: true
+        subtitle: MBA Student
       - title: Section Item 3
         title_align: left
         content: >-
