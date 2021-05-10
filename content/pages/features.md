@@ -178,7 +178,7 @@ sections:
     grid_gap_vert: large
     align: center
     background_color: secondary
-  - title: lorem-ipsum
+  - title: 'You asked, we answered!'
     subtitle: lorem-ipsum
     actions: []
     grid_items: []
