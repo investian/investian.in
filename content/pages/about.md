@@ -92,6 +92,12 @@ sections:
     form_id: lorem-ipsum
     form_action: lorem-ipsum
     form_fields:
+      - input_type: text
+        name: Name
+        label: Name
+        options: []
+        is_required: true
+        type: form_field
       - input_type: email
         name: email
         label: E-mail
@@ -101,12 +107,6 @@ sections:
       - input_type: text
         name: LinkedIn Profile URL
         label: LinkedIn Profile URL
-        options: []
-        is_required: true
-        type: form_field
-      - input_type: text
-        name: Name
-        label: Name
         options: []
         is_required: true
         type: form_field
