@@ -80,6 +80,7 @@ sections:
     subtitle: Our community
     title_align: center
     content: >
+      ![](/images/green-giraffe.png)
 
 
       Join our strong community of professionals, investors, students, finance
