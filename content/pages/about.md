@@ -83,6 +83,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: form_section
+    form_id: Telegram group
   - type: cta_section
     title: Become an Investian today!
     content: |
