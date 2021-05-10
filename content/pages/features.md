@@ -153,7 +153,7 @@ sections:
         type: grid_item
       - title_align: left
         content: >
-          ## Any certificates for attending?
+          #### Any certificates for attending?
 
 
           Yes! You would be awarded a certificate of participation that you can
