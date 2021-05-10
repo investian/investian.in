@@ -138,7 +138,7 @@ sections:
         image_position: top
         image_align: center
         image_has_padding: true
-        subtitle: 'Analyst, CitiBank'
+        subtitle: 'Analyst, Citi Bank'
       - title: Section Item 2
         title_align: left
         content: >-
