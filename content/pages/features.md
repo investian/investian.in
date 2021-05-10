@@ -125,6 +125,21 @@ sections:
         image_position: left
         image_width: twenty-five
         image_has_padding: true
+      - title_align: left
+        content: >
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: left
+        image_width: twenty-five
+        image_align: left
+        image_has_padding: false
+        type: grid_item
+        image: images/famous-pine.png
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         title_align: left
@@ -149,21 +164,6 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - title_align: left
-        content: >
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: left
-        image_width: twenty-five
-        image_align: left
-        image_has_padding: false
-        type: grid_item
-        image: images/famous-pine.png
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: large
