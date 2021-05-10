@@ -188,6 +188,7 @@ sections:
       - label: Join Telegram
         url: /features
         style: secondary
+        has_icon: true
     actions_position: right
     actions_width: fourty
     align: left
