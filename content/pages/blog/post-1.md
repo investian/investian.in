@@ -1,6 +1,5 @@
 ---
 categories:
-  - content/data/categories/tutorials.yaml
   - content/data/categories/general.yaml
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ea mala virtuti
