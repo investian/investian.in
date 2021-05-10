@@ -72,7 +72,7 @@ sections:
         content_align: left
         actions: []
         actions_align: left
-        image: images/1024px-IIM_Bangalore_Logo.svg.png
+        image: images/successful-pineapple.png
         image_alt: Item 4 icon
         image_position: top
         image_align: center
