@@ -128,7 +128,7 @@ sections:
         content_align: left
         actions: []
         actions_align: left
-        image: images/good-eucalyptus.jpg
+        image: images/graceful-broccoli.png
         image_alt: Section item 1 icon
         image_position: top
         image_align: center
