@@ -36,7 +36,6 @@ sections:
         media_width: fifty
     background_color: secondary
   - title: Become an Investian today!
-    subtitle: Our community
     title_align: center
     content: >+
       ![](/images/green-giraffe.png)
