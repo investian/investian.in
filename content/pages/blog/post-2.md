@@ -7,8 +7,7 @@ date: '2020-05-25'
 categories:
   - content/data/categories/news.yaml
   - content/data/categories/general.yaml
-tags:
-  - content/data/tags/netlify.yaml
+tags: []
 image_position: left
 seo:
   title: 'Non Minor, Inquit, Voluptas Percipitur Ex Vilissimis'
