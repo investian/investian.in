@@ -63,7 +63,7 @@ sections:
         content_align: left
         actions: []
         actions_align: left
-        image: images/good-rabbit.png
+        image: images/smiling-birch.png
         image_alt: Item 3 icon
         image_position: top
         image_align: center
