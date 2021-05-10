@@ -154,7 +154,7 @@ sections:
           and discuss practical examples so that you can gain experience in
           doing your own independent analysis.
         actions:
-          - label: Join Telegram
+          - label: Join now
             url: '#'
             style: primary
             has_icon: true
