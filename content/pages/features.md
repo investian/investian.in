@@ -98,6 +98,7 @@ sections:
     enable_cards: false
     align: center
     background_color: none
+    padding_top: small
   - type: grid_section
     title: Reviews Section
     subtitle: Grid Section Example
