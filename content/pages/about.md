@@ -84,6 +84,7 @@ sections:
     background_image_repeat: no-repeat
     type: form_section
     form_id: Telegram group
+    form_action: 'https://ajuniorvc.com/community/'
   - type: cta_section
     title: Become an Investian today!
     content: |
