@@ -34,7 +34,7 @@ sections:
         image_alt: People in a conference room
         media_position: left
         media_width: fifty
-    background_color: primary
+    background_color: secondary
   - type: grid_section
     title: Our Officess
     grid_items:
