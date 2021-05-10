@@ -5,7 +5,7 @@ sections:
     title: About
     subtitle: Investian
     align: center
-    background_color: secondary
+    background_color: primary
   - type: features_section
     features:
       - title: Our Vision
