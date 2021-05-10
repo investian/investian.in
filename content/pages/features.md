@@ -189,11 +189,11 @@ sections:
         type: grid_item
       - title_align: left
         content: >
-          #### How do I access the masterclass?
+          #### Will I get support for clearing doubts after the course?
 
 
-          The masterclass is organized over Google Meet on every weekends. You
-          can access the next live schedule in this [link](www.facebook.com).
+          Of course. You get access to our exclusive community forum to
+          participate in continuous learning. 
         content_align: left
         actions: []
         actions_align: left
