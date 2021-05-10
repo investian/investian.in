@@ -187,7 +187,7 @@ sections:
   - type: cta_section
     title: It's never too late to start making your money work for you.
     actions:
-      - label: Join now
+      - label: Join Telegram
         url: /features
         style: secondary
     actions_position: right
