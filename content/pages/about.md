@@ -19,7 +19,6 @@ sections:
         media_position: right
         media_width: fifty
       - title: Our Philosophy
-        subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: >+
           At Investian, our core philosophy involves in-depth fundamental
           research and building systematic strategies to pick high-quality
