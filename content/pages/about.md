@@ -61,6 +61,7 @@ sections:
         actions_width: auto
         image: images/wewrap.jpg
         image_position: left
+        image_width: thirty-three
     grid_cols: two
     grid_gap_horiz: large
     grid_gap_vert: large
