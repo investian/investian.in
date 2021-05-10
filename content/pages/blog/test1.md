@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Finance Minister announces budget 2021
 subtitle: lorem-ipsum
 date: '2021-05-10'
 categories: []
