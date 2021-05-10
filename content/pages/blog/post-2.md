@@ -8,7 +8,6 @@ categories:
   - content/data/categories/news.yaml
   - content/data/categories/general.yaml
 tags:
-  - content/data/tags/jamstack.yaml
   - content/data/tags/netlify.yaml
 image_position: left
 seo:
