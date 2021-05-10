@@ -204,7 +204,7 @@ sections:
         image_alt: lorem-ipsum
         video_embed_html: >-
           <iframe class="airtable-embed"
-          src="https://airtable.com/embed/shrAo7ZLNyvgRzB0V?backgroundColor=yellow"
+          src="https://airtable.com/embed/shrdAwkqCIJm22cRA?backgroundColor=yellow"
           frameborder="0" onmousewheel="" width="100%" height="533"
           style="background: transparent; border: 1px solid #ccc;"></iframe>
         media_position: right
