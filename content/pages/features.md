@@ -141,7 +141,6 @@ sections:
         type: grid_item
         image: images/famous-pine.png
       - title: lorem-ipsum
-        subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum
