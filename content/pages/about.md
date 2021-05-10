@@ -92,7 +92,7 @@ sections:
     content: |
       It's never too late to start making your hard-earned money work for you.
     actions:
-      - label: Compare Plans
+      - label: Join now
         url: /pricing
         style: primary
     align: center
