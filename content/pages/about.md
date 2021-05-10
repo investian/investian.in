@@ -92,7 +92,7 @@ sections:
       enthusiasts looking to build, network, and grow.
     content_align: left
     form_position: right
-    form_width: fifty
+    form_width: sixty
     form_layout: stacked
     enable_card: true
     form_id: lorem-ipsum
