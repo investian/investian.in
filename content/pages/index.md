@@ -120,41 +120,6 @@ sections:
             type: action
     feature_padding_vert: small
     background_color: primary
-  - type: grid_section
-    grid_items:
-      - title_align: left
-        content: >
-          Join our strong community of professionals, investors, students,
-          finance enthusiasts looking to build, network, and grow.
-
-
-          Get access to an Exclusive Forum to participate in learning exercises
-          and discuss practical examples so that you can gain experience in
-          doing your own independent analysis.
-        content_align: left
-        actions: []
-        actions_align: left
-        image: images/graceful-broccoli.png
-        image_alt: Section item 1 icon
-        image_position: top
-        image_align: center
-        image_has_padding: true
-      - title_align: left
-        content_align: left
-        actions: []
-        actions_align: left
-        image_alt: Section item 2 icon
-        image_position: top
-        image_align: center
-        image_has_padding: true
-        content: |
-          sssd
-    grid_cols: two
-    grid_gap_horiz: small
-    grid_gap_vert: small
-    enable_cards: true
-    align: center
-    background_color: secondary
   - type: blog_feed_section
     title: Exclusive Research Insights
     subtitle: Our Blog
