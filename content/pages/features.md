@@ -110,7 +110,6 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    image: images/energetic-coriander.jpg
   - type: grid_section
     title: Reviews Section
     subtitle: Grid Section Example
