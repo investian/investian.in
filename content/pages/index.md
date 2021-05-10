@@ -143,16 +143,6 @@ sections:
         image_position: top
         image_align: center
         image_has_padding: true
-      - title_align: left
-        content: "Never put your hard earned money without proper research. Never invest according to “Stock tips”.\n\n**Rakesh Jhunjhunwala,**\_*Indian Investor*\n"
-        content_align: left
-        actions: []
-        actions_align: left
-        image: images/unique-lavender.jpg
-        image_alt: Section item 3 icon
-        image_position: top
-        image_align: center
-        image_has_padding: true
     grid_cols: three
     grid_gap_horiz: medium
     grid_gap_vert: small
