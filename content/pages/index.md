@@ -149,23 +149,6 @@ sections:
         image_has_padding: true
         content: |
           sssd
-      - title: lorem-ipsum
-        subtitle: >-
-          <iframe class="airtable-embed"
-          src="https://airtable.com/embed/shrAo7ZLNyvgRzB0V?backgroundColor=yellow"
-          frameborder="0" onmousewheel="" width="100%" height="533"
-          style="background: transparent; border: 1px solid #ccc;"></iframe>
-        title_align: left
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
     grid_cols: two
     grid_gap_horiz: small
     grid_gap_vert: small
