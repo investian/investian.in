@@ -36,7 +36,7 @@ sections:
         media_width: fifty
     background_color: secondary
   - type: grid_section
-    title: Our Officess
+    title: Investian Community
     grid_items:
       - title: Some City
         content: >-
