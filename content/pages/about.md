@@ -64,6 +64,9 @@ sections:
         image: images/wewrap.jpg
         image_position: left
         image_width: sixty
+        subtitle: >-
+          Join our strong community of professionals, investors, students,
+          finance enthusiasts looking to build, network, and grow.
     grid_cols: two
     grid_gap_horiz: large
     grid_gap_vert: large
