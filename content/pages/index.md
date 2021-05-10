@@ -210,7 +210,7 @@ seo:
       value: Investian
       keyName: property
     - name: 'og:description'
-      value: The preview of the DIY theme
+      value: Investian- India's largest Investment community
       keyName: property
     - name: 'og:image'
       value: images/diy-preview.png
