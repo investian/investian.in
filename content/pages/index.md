@@ -124,7 +124,14 @@ sections:
     title: Strategies from the Legendary investors
     grid_items:
       - title_align: left
-        content: "We were not taught financial literacy in school. The most important thing to realize is that when money is in good hands, it wants to stay & keep multiplying in those hands.\n\n**Warren Buffer,**\_CEO Berkshire Hathaway\n"
+        content: >
+          Join our strong community of professionals, investors, students,
+          finance enthusiasts looking to build, network, and grow.
+
+
+          Get access to an Exclusive Forum to participate in learning exercises
+          and discuss practical examples so that you can gain experience in
+          doing your own independent analysis.
         content_align: left
         actions: []
         actions_align: left
