@@ -207,7 +207,7 @@ sections:
         align: left
         type: feature
     feature_padding_vert: medium
-    align: left
+    align: center
     padding_top: medium
     padding_bottom: medium
     has_border: false
