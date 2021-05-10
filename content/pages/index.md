@@ -148,10 +148,7 @@ sections:
         subtitle: MBA Student
       - title: Mohnish Pabrai
         title_align: left
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: "Never put your hard earned money without proper research. Never invest according to “Stock tips”.\n\n**Rakesh Jhunjhunwala,**\_*Indian Investor*\n"
         content_align: left
         actions: []
         actions_align: left
