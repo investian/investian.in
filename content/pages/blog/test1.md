@@ -16,6 +16,7 @@ seo:
   type: stackbit_page_meta
 layout: post
 thumb_image: images/interesting-maple.jpg
+image: images/futuristic-hickory.jpg
 ---
 ## Lorem ipsum
 
