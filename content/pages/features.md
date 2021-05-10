@@ -193,8 +193,9 @@ sections:
           #### Will I get support for clearing doubts after the course?
 
 
-          Of course. You get access to our exclusive [community
-          forum](www.telegram.org) to participate in continuous learning.
+          Of course. You access to our forum to participate in continuous
+          learning where we discuss practical case studies so that you can gain
+          experience in doing your own independent analysis.
         content_align: left
         actions: []
         actions_align: left
