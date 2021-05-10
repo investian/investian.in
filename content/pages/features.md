@@ -204,12 +204,12 @@ sections:
         type: grid_item
       - title_align: left
         content: >
-          ## Where do I pay for the masterclass?
+          #### Where do I pay for the masterclass?
 
 
           You can reserve your ticket for the upcoming masterclass through your
           preferred payment method (UPI/Net banking) at
-          [Instamojo](www.instamojo.com). 
+          [Instamojo](www.instamojo.com).
         content_align: left
         actions: []
         actions_align: left
