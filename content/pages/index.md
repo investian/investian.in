@@ -133,7 +133,7 @@ sections:
         image_alt: Section item 1 icon
         image_position: top
         image_align: center
-        image_has_padding: false
+        image_has_padding: true
       - title: Dheeraj Singh
         title_align: left
         content: >-
