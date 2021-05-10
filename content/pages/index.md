@@ -141,18 +141,6 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: none
-  - type: cta_section
-    title: It's never too late to start making your money work for you.
-    actions:
-      - label: Join now
-        url: /features
-        style: secondary
-    actions_position: right
-    actions_width: fourty
-    align: left
-    padding_top: large
-    padding_bottom: large
-    background_color: primary
   - features:
       - content: >
           ![](/images/curious-turtle.png)
@@ -196,6 +184,19 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: features_section
+  - type: cta_section
+    title: It's never too late to start making your money work for you.
+    actions:
+      - label: Join now
+        url: /features
+        style: secondary
+    actions_position: right
+    actions_width: fourty
+    align: left
+    padding_top: large
+    padding_bottom: large
+    background_color: primary
+  - null
 seo:
   title: Stackbit DIY Theme
   description: The preview of the DIY theme
