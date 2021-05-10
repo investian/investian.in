@@ -4,7 +4,8 @@ subtitle: lorem-ipsum
 date: '2021-05-10'
 categories:
   - content/data/categories/tutorials.yaml
-tags: []
+tags:
+  - content/data/tags/netlify.yaml
 excerpt: lorem-ipsum
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
