@@ -35,47 +35,6 @@ sections:
         media_position: left
         media_width: fifty
     background_color: secondary
-  - type: grid_section
-    title: Investian Community
-    grid_items:
-      - title: Become an Investian today!
-        content: >
-          Join our strong community of professionals, investors, students,
-          finance enthusiasts looking to build, network, and grow.
-
-
-
-
-          [](mailto:email@example.com)
-        content_align: left
-        actions:
-          - label: Join Telegram Group
-            url: 'https://goo.gl/maps/eh6fn7JjMS4vYs337'
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-        actions_align: left
-        actions_width: auto
-      - content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image: images/communitity.png
-        image_position: left
-        image_width: sixty
-        subtitle: >-
-          An Exclusive Forum to participate in learning exercises and discuss
-          practical examples so that you can gain experience in doing your own
-          independent analysis.
-    grid_cols: two
-    grid_gap_horiz: large
-    grid_gap_vert: large
-    enable_cards: false
-    padding_top: medium
-    padding_bottom: medium
-    has_border: true
-    background_color: none
   - title: Become an Investian today!
     subtitle: Our community
     title_align: center
