@@ -88,7 +88,7 @@ sections:
     background_image_repeat: no-repeat
     type: form_section
   - type: cta_section
-    title: This is a Call to Action
+    title: Become an Investian today!
     content: Ut egestas elementum suscipit. Quisque at hendrerit mauris.
     actions:
       - label: Compare Plans
