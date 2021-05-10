@@ -116,9 +116,6 @@ sections:
     title: This is a Call to Action
     content: Ut egestas elementum suscipit. Quisque at hendrerit mauris.
     actions:
-      - label: Compare Plans
-        url: /pricing
-        style: primary
       - label: lorem-ipsum
         url: '#'
         style: link
