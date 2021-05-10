@@ -179,7 +179,7 @@ sections:
     align: center
     background_color: secondary
   - title: 'You asked, we answered!'
-    subtitle: lorem-ipsum
+    subtitle: FAQ
     actions: []
     grid_items: []
     grid_cols: three
