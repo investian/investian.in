@@ -181,7 +181,7 @@ sections:
   - type: cta_section
     title: It's never too late to start making your money work for you.
     actions:
-      - label: lorem-ipsum
+      - label: Join now
         url: '#'
         style: link
         has_icon: false
