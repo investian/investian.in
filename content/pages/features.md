@@ -186,17 +186,12 @@ sections:
         image_has_padding: false
         type: grid_item
       - title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: >
+          ## How do I access the masterclass?
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          The masterclass is organized over Google Meet on every weekends. You
+          can access the next live schedule in this [link](www.facebook.com).
         content_align: left
         actions: []
         actions_align: left
