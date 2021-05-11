@@ -169,7 +169,7 @@ sections:
           src="https://airtable.com/embed/shrdAwkqCIJm22cRA?backgroundColor=yellow"
           frameborder="0" onmousewheel="" width="100%" height="646"
           style="background: transparent; border: 1px solid #ccc;"></iframe>
-        media_position: right
+        media_position: left
         media_width: fifty
         align: left
         type: feature
