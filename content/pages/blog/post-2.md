@@ -31,7 +31,7 @@ In this article, we would be analyzing the nature of Investment and Financing de
 
 The wires and cables market in India comprises nearly 40 percent of the electrical industry and is growing at a CAGR of *15 percent* as a result of growth in the power and infrastructure segments. Cable manufacturers, both power and telecom, have been shoring up their capacities in anticipation of the demand growth. The Transmission and Distribution sector continues to remain in focus, especially, with the outlay of Rs. 2.6 lakh crore announced by the Government for the 3-year period ending FY22. There is a sharper focus on high voltage transmission lines along with Government’s aims to provide 24×7 power, opening many opportunities.
 
-![](https://miro.medium.com/max/1101/1\*gDjRYGwpkLzW\_9dlL3DmAg.png)\*\*
+![](https://miro.medium.com/max/1101/1\*gDjRYGwpkLzW\_9dlL3DmAg.png)
 
 *Major Cable companies in India and their market share (in Rs. Crores)*
 
@@ -128,8 +128,8 @@ In 2018, Salzer had the worst GOC of 208 days, while Universal’s was 176 days.
 
 ###### **References:**
 
-> \*1. \*[*www.moneycontrol.com*](http://www.moneycontrol.com/)
+> 1.  1. \*[*www.moneycontrol.com*](http://www.moneycontrol.com/)
 >
-> *2. Annual Reports of all the 7 Companies*
+> 2.  *2. Annual Reports of all the 7 Companies*
 >
-> *3. CMIE Database*
+> 3.  *3. CMIE Database*
