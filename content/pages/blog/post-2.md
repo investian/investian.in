@@ -129,8 +129,8 @@ In 2018, Salzer had the worst GOC of 208 days, while Universal’s was 176 days.
 
 ###### **References:**
 
-> 1.  [*www.moneycontrol.com*](http://www.moneycontrol.com/)
->
-> 2.  *Annual Reports of all the 7 Companies*
->
-> 3.  *CMIE Database*
+1.  [*www.moneycontrol.com*](http://www.moneycontrol.com/)
+
+2.  *Annual Reports of all the 7 Companies*
+
+3.  *CMIE Database*
