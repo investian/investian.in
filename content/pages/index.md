@@ -189,7 +189,7 @@ sections:
         has_icon: true
         icon: arrow-right
         icon_position: left
-    actions_position: right
+    actions_position: bottom
     actions_width: fourty
     align: left
     padding_top: large
