@@ -27,44 +27,44 @@ Setting forth towards a framework for the financing decision of a firm, it is im
 
 In this article, we would be analyzing the nature of Investment and Financing decisions made by the top companies in the Cable Industry in India.
 
-**SECTOR SNAPSHOT:**
+##### **SECTOR SNAPSHOT:**
 
 The wires and cables market in India comprises nearly 40 percent of the electrical industry and is growing at a CAGR of *15 percent* as a result of growth in the power and infrastructure segments. Cable manufacturers, both power and telecom, have been shoring up their capacities in anticipation of the demand growth. The Transmission and Distribution sector continues to remain in focus, especially, with the outlay of Rs. 2.6 lakh crore announced by the Government for the 3-year period ending FY22. There is a sharper focus on high voltage transmission lines along with Government’s aims to provide 24×7 power, opening many opportunities.
 
-![](https://miro.medium.com/max/1101/1\*gDjRYGwpkLzW\_9dlL3DmAg.png)**
+![](https://miro.medium.com/max/1101/1\*gDjRYGwpkLzW\_9dlL3DmAg.png)\*\*
 
 *Major Cable companies in India and their market share (in Rs. Crores)*
 
-Capital Budgeting decisions — Wealth Maximization
+##### **Capital Budgeting decisions — Wealth Maximization**
 
 *Capital budgeting* involves choosing projects that add value to a company. The capital budgeting process can involve almost anything including acquiring land or purchasing fixed assets like a new truck or machinery. Corporations are typically required, or at least recommended, to undertake those projects which will **increase profitability** and thus **enhance shareholders’ wealth**. Businesses exist to earn profits. The capital budgeting process is a measurable way for businesses to determine the long-term economic and financial profitability of any investment project.
 
-**Net Operating Revenue:**
+###### **Net Operating Revenue:**
 
 Comparing the growth in Net operating revenue, Sterlite Technologies recorded the highest followed by KEI Industries. Sterlite Cables recorded a tremendous spike in their operating revenue (68% increases YOY) compared to the industry average (23.27%) followed by Birla cables (52% increase YOY).
 
 ![](https://miro.medium.com/max/981/1\*JgTIvMh5AmWDhPEOvVzjlg.png)
 *Net Operating Revenue (in Rs. Crores)*
 
-#### &#xA;CAPEX Outlay:
+###### &#xA;**CAPEX Outlay:**
 
 ![](https://miro.medium.com/max/444/1\*mP1er8fDPuEG6t9c9iim8A.png)
 
 Major Investing where cash had been outlaid was by Sterlite Technologies (763 Crores) followed by KEI Industries (275 Crores). The least was by Birla Cables (24 Crores) and Universal Cables (26 Crores).
 
-**Mode of Financing:**
+###### **Mode of Financing:**
 
-****![](https://miro.medium.com/max/1568/1\*VtpjXzV0UYH2GMrzxz3Llg.png)
+![](https://miro.medium.com/max/1568/1\*VtpjXzV0UYH2GMrzxz3Llg.png)
 
-****![](https://miro.medium.com/max/1748/1\*Kf\_-4ZuFK8sbtpCW3FI3qA.png)
+![](https://miro.medium.com/max/1748/1\*Kf\_-4ZuFK8sbtpCW3FI3qA.png)
 
 Coming to sourcing of funds for capital budgeting decisions, no firms in the industry have gone for much Equity issues to raise funds. The firms have either used past cash reserves or have gone for *long term borrowings*. The Company which has gone for the highest borrowing is Sterlite Technologies, followed by KEI Industries. Other firms have tried to reduce their debts and hence used past reserves to fund their Capex projects.
 
-# Leverage Analysis
+##### **Leverage Analysis**
 
 Leverage refers to the use of debt (borrowed funds) to amplify returns from an investment or project. Companies use leverage to finance their assets: instead of issuing stock to raise capital, companies can use debt to invest in business operations in an attempt to increase shareholder value.
 
-**Degree of Operating Leverage(DOL):**
+###### **Degree of Operating Leverage(DOL):**
 
 The degree of operating leverage (DOL) is a multiple that measures how much the operating income of a company will change in response to a change in sales. It is calculated by the following formula:
 
@@ -77,7 +77,7 @@ The cable industry’s average for taking operating risks is 1.425. The most vol
 
 Precision Wires seems very volatile in its decisions of taking operating risks. It has changed its risk-taking capacities drastically in the last three years. Though in its case, the risk-taking has proved fruitful as there has been growth in sales and EBIT all three years. The firms taking adequate operating risks KEI Industries and Salzer electronics. Each company has its operating leverage around the industry average and the ideal values. If asked to choose the better one, KEI cables have shown better growth in Revenues and EBIT. Birla has shown good growth potentials after taking high risks. Though Universal and Sterlite Technologies seems similar, based on EBITS, Sterlite Technologies has performed better than Universal.
 
-**Degree of Financial Leverage (DFL):**
+###### **Degree of Financial Leverage (DFL):**
 
 The degree of financial leverage (DFL) is a leverage ratio that measures the sensitivity of a company’s earnings per share to fluctuations in its operating income, as a result of changes in its capital structure. It is calculated by the following formula:
 
@@ -91,7 +91,7 @@ Based on the financial risk-taking capacities of the firm and their translation 
 ![](https://miro.medium.com/max/2301/1\*vCh5HpQufPe4KUXWdwbJcg.png)
 *Impact of Degree of Financial Leverage over the Basic Earnings per Share for top companies in the cable Industry*
 
-**Working Capital Management**
+##### **Working Capital Management**
 
 Working capital management is a business strategy designed to ensure that a company operates efficiently by monitoring and using its current assets and liabilities to the best effect. The primary purpose of working capital management is to enable the company to maintain enough cash flow to meet its short-term operating costs and short-term debt obligations.
 
@@ -105,15 +105,15 @@ Positive working capital is required to ensure that a firm can continue its oper
 
 *Current assets and current liabilities include three accounts which are of special importance: **accounts receivable, inventory, and accounts payable.***
 
-**Inventory Holding Period:**
+###### **Inventory Holding Period:**
 
 To operate with maximum efficiency and maintain a comfortably high level of working capital, a company must keep enough inventory on hand to meet customers’ needs while avoiding unnecessary inventory that ties up working capital. It reveals how rapidly a company’s inventory is being sold and replenished. A relatively low period compared to industry peers indicates inventory levels are excessively high, while a relatively high value may indicate inadequate inventory levels.
 
-**Receivables Collection Period:**
+###### **Receivables Collection Period:**
 
 It provides the average number of days it takes a company to receive payment after a sales transaction on credit. If a company’s billing department is effective at collections attempts and customers pay their bills on time, the collection period will be lower. The lower a company’s collection period, the more efficient its cash flow.
 
-**Creditors Payment Period:**
+###### **Creditors Payment Period:**
 
 An indicator measures the average time it takes a company to settle its debts with trade suppliers (accounts payable). Thus, among other things, it gives information about payment habits and whether a business is taking full advantage of trade credit available.
 
@@ -126,35 +126,10 @@ Precision wires have the lowest GOC in both the years. It had also reduced its G
 
 In 2018, Salzer had the worst GOC of 208 days, while Universal’s was 176 days. In 2019 Salzer had brought down its GOC by 14% to 178 days but Universal had increased its GOC to 208 days. The reason for the long GOC of Salzer was its very high DIO time of 113 days in 2018.
 
-# References:
+###### **References:**
 
-> *1. *[*www.moneycontrol.com*](http://www.moneycontrol.com/)
+> \*1. \*[*www.moneycontrol.com*](http://www.moneycontrol.com/)
 >
 > *2. Annual Reports of all the 7 Companies*
 >
 > *3. CMIE Database*
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
