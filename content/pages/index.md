@@ -175,7 +175,7 @@ sections:
           frameborder="0" onmousewheel="" width="100%" height="646"
           style="background: transparent; border: 1px solid #ccc;"></iframe>
         media_position: top
-        media_width: fifty
+        media_width: sixty
         align: left
         type: feature
     feature_padding_vert: small
