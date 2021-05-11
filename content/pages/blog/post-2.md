@@ -19,7 +19,7 @@ Investment decisions in any firm basically relate to the selection of assets in 
 
 1.  ***Long term Assets***, which yield a return over a period of time in the future,
 
-*2. **Short-term or current assets***, which are convertible into cash without diminution in value, usually within a year.
+*2. Short-term or current assets*, which are convertible into cash without diminution in value, usually within a year.
 
 The first of these involving the first category of assets is popularly known in financial literature as capital budgeting. The aspect of financial decision making with reference to current assets or short-term assets is popularly termed as working capital management.
 
