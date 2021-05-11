@@ -181,7 +181,7 @@ sections:
     type: features_section
     title: Network with like minded folks!
   - type: cta_section
-    title: It's never too late to start making your money work for you.
+    title: Become an Investian today.
     actions:
       - label: Join Telegram
         url: /features
