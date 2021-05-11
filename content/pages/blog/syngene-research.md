@@ -42,25 +42,21 @@ layout: post
 
 Syngene largely operates its business under three verticals: discovery services, development & manufacturing services, and dedicated centres. Dedicated centres are an exclusive, long-term contract of 5-6 years. Discovery services are largely full-time equivalent (FTE)-based engagements with dedicated scientist team and are renewed annually. Development & manufacturing is largely fee for service (FFS)-based services for both short and long term.
 
-**Dedicated R\&D:**
+**1.Dedicated R\&D:**
 
-*   31% of revenue     \- Offers stable, accrual based, long term multi-year partnership, usually 5 years or more based on FTE model and offers highly stable margins and periodic revenue growth. 95% of clients turnover annually, reflecting high predictability of cash flows.
-
+*   31% of revenue    \- Offers stable, accrual based, long term multi-year partnership, usually 5 years or more based on FTE model and offers highly stable margins and periodic revenue growth. 95% of clients turnover annually, reflecting high predictability of cash flows.
 
 *   Dedicated multi-disciplinary scientific teams, support personnel and ring-fenced infrastructure as per client specification to support client’s R\&D requirement.
 
-
-**Discovery Services:**
+**2. Discovery Services:**
 
 *   32% of revenue    \- Conducts early stage research, from target identification to delivery of drug candidate for further development    . Engagement model is based on FTE.
 
+**3. Development & Manufacturing Services:**
 
-**Development & Manufacturing Services:**
+*   37% of revenue    \- Pre-clinical to clinical trials including drug substance development, drug product development and associated services to demonstrate safety, tolerability, and efficacy of selected drug candidate
 
-*    37% of revenue    \- Pre-clinical to clinical trials including drug substance development, drug product development and associated services to demonstrate safety, tolerability, and efficacy of selected drug candidate
-
-
-*   Fee for service-based engagement model    \- Manufacturing Services offers contractual manufacturing of HPAPI molecules in oncology segment.     Customized engagement model to deliver clinical and commercial supplies
+*   Fee for service-based engagement model    \- Manufacturing Services offers contractual manufacturing of HPAPI molecules in oncology segment.    Customized engagement model to deliver clinical and commercial supplies
 
 ###### **Growth prospects of the company:**
 
@@ -74,8 +70,6 @@ Syngene largely operates its business under three verticals: discovery services,
 
 *   Syngene is the largest CRO + CDMO in India and second biggest in Asia after Wuxi Apptec.
 
-
 *   It has lower cost and higher valuation metrics compared to its APAC peer Wuxi. Syngene's billing rate in India per scientist is 60k USD whereas China’s per scientist rate is 90k-100k USD and Western Companies’ per scientist rate is 175k USD. (Hence India is cheaper in terms of costs to provide services)
-
 
 *   Increasing outsourcing trend (CRO/ CRAMS) in APAC region by large pharma companies and reducing dependence on China (China +1 strategy) will act as a tailwind for Syngene’s growth in upcoming years.
