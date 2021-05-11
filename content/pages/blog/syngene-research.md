@@ -42,21 +42,25 @@ layout: post
 
 ###### **Growth prospects of the company:**
 
-****![](/images/Picture8.png)
-
-Syngene had **robust revenue growth** (double the pace of industry growth) and the management expects “low double-digit revenue growth for FY20-21”. (From Q2 con call transcript)
+![](/images/Picture8.png)
 
 ![](/images/Picture2.png)
 
-Syngene has exhibited **strong operating performance**, best in the industry. Syngene’s EBITDA increased at a 32% CAGR over FY11-16, and 16% CAGR over FY17-20 aided by economies of scale.
+Syngene had **robust revenue growth** (double the pace of industry growth) and the management expects “low double-digit revenue growth for FY20-21”. (From Q2 con call transcript)
+
 
 ![](/images/Picture3.png)
 
-Syngene’s **EBITDA margins** have been consistently around 30% over the last decade, despite higher employee costs. This can be attributed to superior employee capacity utilization of 70-80% and higher gross margins relative to its peers.
+Syngene has exhibited **strong operating performance**, best in the industry. Syngene’s EBITDA increased at a 32% CAGR over FY11-16, and 16% CAGR over FY17-20 aided by economies of scale.
+
+
 
 ![](/images/Picture4.png)
 
-###### **Competitor Analysis:**
+Syngene’s **EBITDA margins** have been consistently around 30% over the last decade, despite higher employee costs. This can be attributed to superior employee capacity utilization of 70-80% and higher gross margins relative to its peers.
+
+
+**Competitor Analysis:**
 
 *   Syngene is the largest CRO + CDMO in India and second biggest in Asia after Wuxi Apptec.
 
@@ -66,7 +70,7 @@ Syngene’s **EBITDA margins** have been consistently around 30% over the last d
 
 ![](/images/Picture5.png)
 
-###### ****![](/images/Picture6.png)
+###### ![](/images/Picture6.png)
 
 **Key Business Segments:**
 
