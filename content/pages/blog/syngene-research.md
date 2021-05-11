@@ -6,7 +6,7 @@ categories:
   - content/data/categories/category-75fz3jjhb.json
 tags: []
 thumb_image_alt: Syngene
-image_alt: lorem-ipsum
+image_alt: Syngene
 image_position: top
 seo:
   title: ''
