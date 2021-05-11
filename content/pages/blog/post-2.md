@@ -1,7 +1,8 @@
 ---
 title: Cable Industries in India- A Corporate Finance Perspective
 date: '2021-05-11'
-categories: []
+categories:
+  - content/data/categories/category-75fz3jjhb.json
 tags: []
 thumb_image_alt: Cable Industries in India
 image_alt: Cable Industries in India
