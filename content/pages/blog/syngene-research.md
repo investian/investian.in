@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Syngene Intl - A silent multibagger?
 subtitle: lorem-ipsum
 date: '2021-05-11'
 categories: []
