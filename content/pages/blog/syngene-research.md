@@ -1,5 +1,5 @@
 ---
-title: Syngene Intl - A silent multibagger?
+title: Syngene Intl - A pharma dark-horse in making?
 subtitle: A deep-dive into the business model & financials of Syngene International ltd
 date: '2021-05-11'
 categories:
