@@ -5,7 +5,7 @@ date: '2021-05-11'
 categories:
   - content/data/categories/category-75fz3jjhb.json
 tags: []
-thumb_image_alt: lorem-ipsum
+thumb_image_alt: Syngene
 image_alt: lorem-ipsum
 image_position: top
 seo:
