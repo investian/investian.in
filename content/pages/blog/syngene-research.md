@@ -42,7 +42,7 @@ layout: post
 
 Syngene largely operates its business under three verticals: discovery services, development & manufacturing services, and dedicated centres. Dedicated centres are an exclusive, long-term contract of 5-6 years. Discovery services are largely full-time equivalent (FTE)-based engagements with dedicated scientist team and are renewed annually. Development & manufacturing is largely fee for service (FFS)-based services for both short and long term.
 
-**1.Dedicated R\&D:**
+1.  **Dedicated R\&D:**
 
 *   31% of revenue    \- Offers stable, accrual based, long term multi-year partnership, usually 5 years or more based on FTE model and offers highly stable margins and periodic revenue growth. 95% of clients turnover annually, reflecting high predictability of cash flows.
 
