@@ -151,7 +151,7 @@ sections:
         actions: []
         image_alt: lorem-ipsum
         media_position: right
-        media_width: sixty
+        media_width: fourty
         align: left
         type: feature
         image: images/robust-spruce.png
