@@ -104,7 +104,7 @@ We can calculate available working capital using the following formula:
 
 Positive working capital is required to ensure that a firm can continue its operations and that it has enough funds to satisfy both maturing short-term debt and upcoming operational expenses. The management of working capital involves managing inventories, accounts receivable and payable, and cash.
 
-*Current assets and current liabilities include three accounts which are of special importance: **accounts receivable, inventory, and accounts payable.***
+*Current assets and current liabilities include three accounts which are of special importance: accounts receivable, inventory, and accounts payable.*
 
 ###### **Inventory Holding Period:**
 
