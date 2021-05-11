@@ -181,8 +181,12 @@ sections:
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          <script
+          src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script><iframe
+          class="airtable-embed airtable-dynamic-height"
+          src="https://airtable.com/embed/shrdAwkqCIJm22cRA?backgroundColor=yellow"
+          frameborder="0" onmousewheel="" width="100%" height="646"
+          style="background: transparent; border: 1px solid #ccc;"></iframe>
         media_position: top
         media_width: fifty
         align: left
