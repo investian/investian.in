@@ -151,16 +151,7 @@ sections:
           Get access to an Exclusive Forum to participate in learning exercises
           and discuss practical examples so that you can gain experience in
           doing your own independent analysis.
-        actions:
-          - label: Join now
-            url: '#'
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: left
-            new_window: false
-            no_follow: false
-            type: action
+        actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
           <script
