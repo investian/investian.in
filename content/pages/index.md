@@ -176,7 +176,7 @@ sections:
           style="background: transparent; border: 1px solid #ccc;"></iframe>
         media_position: top
         media_width: sixty
-        align: left
+        align: center
         type: feature
     feature_padding_vert: small
     align: center
