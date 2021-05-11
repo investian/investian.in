@@ -13,6 +13,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: post
+thumb_image: images/cable industries.jpeg
 ---
 Investment decisions in any firm basically relate to the selection of assets in which funds will be invested by the firm. These assets broadly can fall into 2 groups:
 
