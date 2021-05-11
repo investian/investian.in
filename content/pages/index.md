@@ -191,7 +191,7 @@ sections:
         icon_position: left
     actions_position: bottom
     actions_width: fourty
-    align: left
+    align: center
     padding_top: large
     padding_bottom: large
     background_color: primary
