@@ -69,6 +69,7 @@ Leverage refers to the use of debt (borrowed funds) to amplify returns from an i
 The degree of operating leverage (DOL) is a multiple that measures how much the operating income of a company will change in response to a change in sales. It is calculated by the following formula:
 
 ![](https://miro.medium.com/max/531/1\*4Ek7VwHUoswe8z-uZV37vg.png)
+
 High operating leverage indicates the firm has a large proportion of fixed costs, which means that a big increase in sales can lead to outsized changes in profits.
 
 ![](https://miro.medium.com/max/979/1\*wAvpR91kM35-vYTyUaxABQ.png)
