@@ -164,6 +164,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
+        image: images/robust-spruce.png
     feature_padding_vert: small
     align: center
     padding_top: medium
