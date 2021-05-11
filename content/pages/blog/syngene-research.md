@@ -1,6 +1,6 @@
 ---
 title: Syngene Intl - A silent multibagger?
-subtitle: lorem-ipsum
+subtitle: A deep-dive into the business model & financials of Syngene International ltd
 date: '2021-05-11'
 categories: []
 tags: []
