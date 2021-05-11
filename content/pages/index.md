@@ -145,9 +145,9 @@ sections:
           finance enthusiasts looking to build, network, and grow.
 
 
-          Get access to an Exclusive Forum to participate in learning exercises
-          and discuss practical examples so that you can gain experience in
-          doing your own independent analysis.
+          Fill the below form to get access to our Exclusive Forum to
+          participate in learning exercises and discuss practical examples so
+          that you can gain experience in doing your own independent analysis.
         actions: []
         image_alt: lorem-ipsum
         media_position: right
