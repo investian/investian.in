@@ -179,6 +179,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: features_section
+    title: Network with like minded folks!
   - type: cta_section
     title: It's never too late to start making your money work for you.
     actions:
