@@ -150,7 +150,7 @@ sections:
           doing your own independent analysis.
         actions: []
         image_alt: lorem-ipsum
-        media_position: left
+        media_position: right
         media_width: sixty
         align: left
         type: feature
