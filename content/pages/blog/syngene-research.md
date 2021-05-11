@@ -17,6 +17,7 @@ seo:
 layout: post
 author: content/data/team/person-gv23ibpsz.json
 image: images/syngene.png
+thumb_image: images/ultra-spider.png
 ---
 ###### **Business of Syngene:**
 
