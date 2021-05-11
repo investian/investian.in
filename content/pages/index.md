@@ -165,8 +165,7 @@ sections:
         align: left
         type: feature
         image: images/robust-spruce.png
-      - subtitle: lorem-ipsum
-        content: >-
+      - content: >-
           ## Lorem ipsum
 
 
