@@ -18,23 +18,36 @@ layout: post
 ---
 ###### **Business of Syngene:**
 
-*   Syngene International is an INR 230 billion CRO leader in India with an integrated business model and low cost- high value proposition. Transitioning itself to a CRAMS (contract research and manufacturing) organization, it has end-to-end discovery, development, and manufacturing capabilities. 
+*   Syngene International is an INR 230 billion CRO leader in India with an integrated business model and low cost- high value proposition. Transitioning itself to a CRAMS (contract research and manufacturing) organization, it has end-to-end discovery, development, and manufacturing capabilities.
 
-*   Syngene is a 70.24% subsidiary of Biocon and accounts for one-third of the consolidated revenue and profit of Biocon. 
+*   Syngene is a 70.24% subsidiary of Biocon and accounts for one-third of the consolidated revenue and profit of Biocon.
+
 
 ###### **Core competency and business strengths of Syngene:**
 
-• Syngene has a resilient, self-sustainable business model and has exhibited strong operating performance over the years.
-• Proven track-record of over 25 years. Since it’s commencement of operations in 1994 with a seed capital of less than USD 0.5m, it has never raised equity to fund growth, and all capital investment plans were self-funded using its CFO & debt.
-• EBITDA margins have been consistently around 30% over the last decade aided by economies of scale.
-• Cost advantage of up to 50% compared to US and European competitors due to considerably lower manufacturing and employee costs together with favourable regulations.
-• High switching costs and high customer stickiness - 8 of the top 10 global pharma companies have been availing services for the last five years. According to management, 90-95% of Syngene’s existing business is recurring in nature.
-• Expanding client base from 256 to 362 over FY16-20. Key global players including Bristol-Myers Squibb (BMS), Abbott, Baxter, Amgen, and Herbalife among others.
-• The company and has a highly experienced management team with MD Kiran Mazumdar Shaw. Syngene also has a strong compliance history with regulators and hence reduces the regulatory risks prevalent in the industry.
+*   Syngene has a resilient, self-sustainable business model and has exhibited strong operating performance over the years.
+
+
+*   Proven track-record of over 25 years. Since it’s commencement of operations in 1994 with a seed capital of less than USD 0.5m, it has never raised equity to fund growth, and all capital investment plans were self-funded using its CFO & debt.
+
+
+*   EBITDA margins have been consistently around 30% over the last decade aided by economies of scale.
+
+
+*   Cost advantage of up to 50% compared to US and European competitors due to considerably lower manufacturing and employee costs together with favourable regulations.
+
+
+*   High switching costs and high customer stickiness - 8 of the top 10 global pharma companies have been availing services for the last five years. According to management, 90-95% of Syngene’s existing business is recurring in nature.
+
+
+*   Expanding client base from 256 to 362 over FY16-20. Key global players including Bristol-Myers Squibb (BMS), Abbott, Baxter, Amgen, and Herbalife among others.
+
+
+*   The company and has a highly experienced management team with MD Kiran Mazumdar Shaw. Syngene also has a strong compliance history with regulators and hence reduces the regulatory risks prevalent in the industry.
 
 ###### **Key Business Segments:**
 
-Syngene largely operates its business under three verticals: discovery services, development & manufacturing services, and dedicated centres. Dedicated centres are an exclusive, long-term contract of 5-6 years. Discovery services are largely full-time equivalent (FTE)-based engagements with dedicated scientist team and are renewed annually. Development & manufacturing is largely fee for service (FFS)-based services for both short and long term.
+Syngene largely operates its business under three verticals: discovery services, development & manufacturing services, and dedicated centres. Dedicated centres are an exclusive, long-term contract of 5-6 years. Discovery services are largely full-time equivalent (FTE)-based engagements with dedicated scientist team and are renewed annually. Development & manufacturing is largely fee for service (FFS)-based services for both short and long term.
 
 **➢ Dedicated R\&D:**
 • 31% of revenue
@@ -61,6 +74,6 @@ Syngene’s EBITDA margins have been consistently around 30% over the last decad
 
 ###### **Competitor Analysis:**
 
-• Syngene is the largest CRO + CDMO in India and second biggest in Asia after Wuxi Apptec.
+• Syngene is the largest CRO + CDMO in India and second biggest in Asia after Wuxi Apptec.
 • It has lower cost and higher valuation metrics compared to its APAC peer Wuxi. Syngene's billing rate in India per scientist is 60k USD whereas China’s per scientist rate is 90k-100k USD and Western Companies’ per scientist rate is 175k USD. (Hence India is cheaper in terms of costs to provide services)
 • Increasing outsourcing trend (CRO/ CRAMS) in APAC region by large pharma companies and reducing dependence on China (China +1 strategy) will act as a tailwind for Syngene’s growth in upcoming years.
