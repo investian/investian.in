@@ -195,6 +195,8 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
+    content: |
+      It's never too late to start making your hard-earned money work for you.
 seo:
   title: Investian- India's Investment community
   description: >-
