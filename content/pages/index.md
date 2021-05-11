@@ -161,7 +161,7 @@ sections:
           frameborder="0" onmousewheel="" width="100%" height="646"
           style="background: transparent; border: 1px solid #ccc;"></iframe>
         media_position: bottom
-        media_width: fifty
+        media_width: sixty
         align: left
         type: feature
         image: images/robust-spruce.png
