@@ -5,7 +5,7 @@
     "style": "classic",
     "palette": "gray",
     "mode": "light",
-    "base_font": "serif",
+    "base_font": "sans-serif",
     "header": {
         "title": "Investian",
         "logo": "images/Asset 6.png",
