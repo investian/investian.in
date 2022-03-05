@@ -7,9 +7,6 @@ sections:
       - label: Join the Community
         url: /pricing
         style: primary
-      - label: Join the Community
-        url: /features
-        style: secondary
     image: images/2000-min.jpg
     image_alt: Hero section placeholder image
     media_position: left
