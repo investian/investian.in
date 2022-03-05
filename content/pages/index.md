@@ -26,7 +26,7 @@ sections:
     title: Why join Stock Pitch Club?
     features:
       - title: Applied Equity Research
-        subtitle: Explore with live practical case studies from listed companies in NSE
+        subtitle: Stop betting on complex technical charts & useless indicators.
         content: |2
            Understand the core rules and philosophy of investing and business analysis.
 
