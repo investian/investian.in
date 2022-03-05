@@ -65,7 +65,7 @@ sections:
     background_color: none
   - type: features_section
     features:
-      - title: Join the Equity Research practical masterclass now
+      - title: 'Stock Pitch Club membership:'
         image: images/superb-anemone.jpg
         image_alt: Brandon Guidelines
         media_position: right
