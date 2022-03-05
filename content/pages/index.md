@@ -72,8 +72,8 @@ sections:
           Analysis, Piotroski Scan & more
         content: >
           A deep-dive into classical DCF & Multiples based Valuation techniques
-          to analyze publicly listed firms in the Indian Stock Market +
-          ***weekly case studies ***
+          to analyze publicly listed firms in the Indian Stock Market + \*weekly
+          case studies \*
         actions:
           - label: Learn More
             url: /style-guide
