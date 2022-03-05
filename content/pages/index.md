@@ -38,9 +38,6 @@ sections:
         media_width: fifty
       - title: Hands-on approach to analyze financial reports
         content: >
-          And this myth has to be broken.
-
-
           At Stock Pitch Club, our core philosophy involves in-depth fundamental
           research and building systematic strategies to pick high-quality
           investments and build a strong recession-proof portfolio to yield
