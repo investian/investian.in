@@ -65,7 +65,10 @@ sections:
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: fifty
-        subtitle: 'Understanding the 3 financial statements + Key Ratio analysis '
+        subtitle: >-
+          For individuals, equity trading is generally synonymous to speculation
+          & involves complex trading charts and indicators that later becomes
+          obsolete.
       - title: Time-tested Frameworks to understand businesses
         subtitle: >-
           SWOT, Porter's 5 forces, PESTLE, Value Chain Analysis, DuPont
