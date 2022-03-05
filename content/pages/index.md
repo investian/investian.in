@@ -45,13 +45,7 @@ sections:
           research and building systematic strategies to pick high-quality
           investments and build a strong recession-proof portfolio to yield
           consistent risk-adjusted returns in the long run.
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         image: images/M3-Ch4-chart1-6.jpg
         image_alt: Feature 2 placeholder image
         media_position: left
