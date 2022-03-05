@@ -160,7 +160,7 @@ sections:
     type: features_section
     title: Network with like minded folks!
   - type: cta_section
-    title: Become an Investian today.
+    title: Join the club today!
     actions:
       - label: Join Telegram
         url: /features
