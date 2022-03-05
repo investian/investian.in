@@ -22,7 +22,7 @@ sections:
   - type: features_section
     title: Why join Stock Pitch Club?
     features:
-      - title: Applied Equity Research
+      - title: Institutional grade Equity Research - for every Indian
         subtitle: Stop betting on complex technical charts & useless indicators.
         content: >
           Understand fundamental analysis of businesses through live practical
