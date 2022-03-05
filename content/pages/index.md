@@ -162,7 +162,7 @@ sections:
   - type: cta_section
     title: Join the club today!
     actions:
-      - label: Join Telegram
+      - label: Access Stock Pitch Club
         url: /features
         style: secondary
         has_icon: true
