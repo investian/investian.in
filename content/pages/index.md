@@ -19,7 +19,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: features_section
-    title: Stockpitch club democratizes the
+    title: Why join Stock Pitch Club?
     features:
       - title: Applied Equity Research
         subtitle: Explore with live practical case studies from listed companies in NSE
