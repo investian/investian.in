@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: 'We analyze, eat & breath stocks.'
     actions:
-      - label: Learn more
+      - label: Join the Community
         url: /pricing
         style: primary
       - label: Join the Community
