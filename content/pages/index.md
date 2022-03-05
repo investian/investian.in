@@ -19,7 +19,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: features_section
-    title: Introducing a systematic & practical framework to pick the right stocks
+    title: Stockpitch club democratizes the
     features:
       - title: Applied Equity Research
         subtitle: Explore with live practical case studies from listed companies in NSE
