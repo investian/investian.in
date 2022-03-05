@@ -27,8 +27,11 @@ sections:
     features:
       - title: Applied Equity Research
         subtitle: Stop betting on complex technical charts & useless indicators.
-        content: |2
-           Understand the core rules and philosophy of investing and business analysis.
+        content: >
+          Explore with live practical case studies from listed companies in NSE.
+          Understand the core rules and philosophy of investing and business
+          analysis.
+
 
           ###### Even if you are from a non-finance background.
         actions:
