@@ -2,7 +2,7 @@
 title: Investian
 sections:
   - type: hero_section
-    title: 'We analyze, eat & breath stocks.'
+    title: 'We think, eat & breath stocks.'
     actions:
       - label: Join the Community
         url: /pricing
