@@ -62,13 +62,7 @@ sections:
           A deep-dive into classical DCF & Multiples based Valuation techniques
           to analyze publicly listed firms in the Indian Stock Market +
           ***weekly case studies***
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         image: images/incredible-hickory.jpg
         image_alt: Feature 3 placeholder image
         media_position: right
