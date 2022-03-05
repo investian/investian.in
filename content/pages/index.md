@@ -18,13 +18,10 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-    content: >+
-      Stock Pitch Club aims to make the 'Power of Investing' accessible to every
-      Indian by building a vibrant open community of passionate finance
+    content: >
+      **Stock Pitch Club** aims to make the 'Power of Investing' accessible to
+      every Indian by building a vibrant open community of passionate finance
       enthusiasts & investors.
-
-
-
   - type: features_section
     title: Why join Stock Pitch Club?
     features:
