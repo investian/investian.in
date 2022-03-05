@@ -47,9 +47,7 @@ sections:
         media_width: fifty
       - title: Hands-on approach to analyze financial reports
         content: >
-          For individuals, equity trading is generally synonymous to speculation
-          & involves complex trading charts and indicators that later becomes
-          obsolete. And this myth has to be broken.
+          And this myth has to be broken.
 
 
           At Stock Pitch Club, our core philosophy involves in-depth fundamental
