@@ -86,7 +86,7 @@ sections:
           *   Get access to our exclusive chat rooms and network with
           like-minded investors
         actions:
-          - label: Join now
+          - label: Join the club!
             url: '#'
             style: primary
             has_icon: true
