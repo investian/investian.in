@@ -42,10 +42,11 @@ sections:
         media_position: right
         media_width: fifty
       - title: Hands-on approach to analyze financial reports
-        content: >
-          Demystifying the 3 key decisions every company make (Capital
-          Budgeting, Leverage, Dividends declaration) & it's impact on share
-          price
+        content: >+
+          Stock Pitch Club aims to make the 'Power of Investing' accessible to
+          every Indian by building a vibrant open community of passionate
+          finance enthusiasts & investors.
+
         actions:
           - label: Learn More
             url: /style-guide
