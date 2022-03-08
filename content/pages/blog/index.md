@@ -3,7 +3,7 @@ title: Blog
 sections:
   - type: hero_section
     title: Research
-    subtitle: 'Investments, Markets & more'
+    subtitle: Institutional-grade Equity Research - for every Indian
     align: center
     padding_top: medium
     padding_bottom: none
