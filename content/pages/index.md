@@ -20,14 +20,7 @@ sections:
       financial education.
   - type: features_section
     features:
-      - content: >
-          *   It's for those who want a proper, well-rounded grounding in
-          financial education along with the support from an active professional
-          community of fellow learners.
-
-
-          *   Connect with like-minded peer group through our strong network of
-          finance professionals, CAs, CFAs, MBAs and undergrads.
+      - content: "\U0001F393 It's for those who want a proper, well-rounded grounding in financial education along with the support from an active professional community of fellow learners.\n\n\U0001F44B Connect with like-minded peer group through our strong network of finance professionals, CAs, CFAs, MBAs and undergrads.\n"
         actions: []
         image: images/ru-ed37624a.jpg
         image_alt: Feature 1 placeholder image
