@@ -86,7 +86,7 @@ sections:
     form_id: Telegram group
     form_action: 'https://ajuniorvc.com/community/'
   - title: Curated Books in Finance
-    subtitle: lorem-ipsum
+    subtitle: Curated collections
     actions: []
     grid_items: []
     grid_cols: three
