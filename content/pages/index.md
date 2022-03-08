@@ -22,9 +22,6 @@ sections:
     title: Only 24% Indians Financially Literate
     features:
       - title: Only 24% Indians Financially Literate
-        subtitle: >-
-          You don't need to pursue an MBA, CA, CFA or a Phd to be an expert in
-          Finance.
         content: >
           Understand fundamental analysis of businesses through live practical
           case studies of listed companies in the NSE. Understand the core rules
