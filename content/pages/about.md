@@ -8,16 +8,6 @@ sections:
     background_color: primary
   - type: features_section
     features:
-      - title: Our Vision
-        content: >+
-          Investian aims to make the 'Power of Investing' accessible to every
-          Indian by building a vibrant open community of passionate finance
-          enthusiasts & investors.
-
-        image: images/2000-min.jpg
-        image_alt: People in conversation in the office lounge area
-        media_position: right
-        media_width: fifty
       - title: Our Philosophy
         content: >+
           For individuals, equity trading is generally synonymous to speculation
