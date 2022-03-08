@@ -31,15 +31,6 @@ sections:
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: fifty
-      - title: An eco-system of collaborative learning
-        content: >
-          Connect with like-minded peer group through our strong network of
-          finance professionals, CAs, CFAs, MBAs and undergrads.
-        actions: []
-        image: images/RI44-825c117c.jpg
-        image_alt: Feature 3 placeholder image
-        media_position: right
-        media_width: fifty
     feature_padding_vert: large
     align: center
     background_color: none
