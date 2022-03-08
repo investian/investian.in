@@ -119,6 +119,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
+        image: images/How Finance works-cc303b27.png
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
