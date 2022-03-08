@@ -22,8 +22,8 @@ sections:
     features:
       - title: Only 24% Indians are Financially Literate.
         content: >
-          You don't need to pursue an MBA, CA, CFA or a Phd to be an expert in
-          Finance.
+          But not everyone need to pursue an MBA, CA, CFA or a Phd to be an
+          expert in Finance.
         actions: []
         image: images/wo1-d3134978.jpg
         image_alt: Feature 1 placeholder image
