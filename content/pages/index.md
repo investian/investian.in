@@ -59,7 +59,7 @@ sections:
         image: images/superb-anemone.jpg
         image_alt: Brandon Guidelines
         media_position: right
-        media_width: sixty
+        media_width: fifty
         actions:
           - label: Join the club!
             url: '#'
