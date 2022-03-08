@@ -21,7 +21,7 @@ sections:
     padding_bottom: large
     has_border: true
   - type: form_section
-    title: Become an Investian today!
+    title: Join Finance Lab today!
     title_align: center
     content: Subscribe to our newsletter to make sure you don't miss anything.
     content_align: center
