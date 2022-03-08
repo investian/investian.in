@@ -109,8 +109,7 @@ sections:
         image_align: left
         image_has_padding: true
         image: images/Valuation_Mckinsey.jpg
-      - title: lorem-ipsum
-        title_align: left
+      - title_align: left
         content_align: left
         actions: []
         actions_align: left
