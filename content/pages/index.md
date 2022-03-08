@@ -22,9 +22,10 @@ sections:
     features:
       - title: Level up your financial acumen.
         content: >
-          To bridge this gap, **Finance lab** leverages the abundantly available
-          online materials in the form of books, podcasts, blog posts and
-          curates them as a one-stop research platform.
+          **Finance Lab** is not merely for career training or professional
+          development. It's for those who want a proper, well-rounded grounding
+          in financial education along with the support from an active
+          professional community of fellow learners.
         actions: []
         image: images/ru-ed37624a.jpg
         image_alt: Feature 1 placeholder image
