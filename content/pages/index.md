@@ -25,7 +25,7 @@ sections:
           You don't need to pursue an MBA, CA, CFA or a Phd to be an expert in
           Finance.
         actions: []
-        image: images/RI44.jpg
+        image: images/wo1-d3134978.jpg
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: fifty
