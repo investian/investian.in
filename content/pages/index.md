@@ -22,7 +22,9 @@ sections:
     title: Why join Stock Pitch Club?
     features:
       - title: Institutional grade Equity Research - for every Indian
-        subtitle: Stop betting on complex technical charts & useless indicators.
+        subtitle: >-
+          You don't need to pursue an MBA, CA, CFA or a Phd to be an expert in
+          Finance.
         content: >
           Understand fundamental analysis of businesses through live practical
           case studies of listed companies in the NSE. Understand the core rules
