@@ -59,7 +59,7 @@ sections:
           finance enthusiasts looking to build, network, and grow.
 
 
-          Fill the form to get access to our Exclusive Forum.  
+          Fill the form to get access to our Exclusive Forum.
     feature_padding_vert: small
     background_color: primary
   - type: blog_feed_section
