@@ -33,7 +33,7 @@ sections:
     title: "Level up your financial acumen \U0001F680"
   - type: features_section
     features:
-      - title: 'Finance Lab membership:'
+      - title: Finance Lab Community
         image_alt: Brandon Guidelines
         media_position: right
         media_width: fifty
