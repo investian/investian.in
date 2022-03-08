@@ -23,12 +23,8 @@ sections:
     features:
       - title: Only 24% Indians Financially Literate
         content: >
-          Understand fundamental analysis of businesses through live practical
-          case studies of listed companies in the NSE. Understand the core rules
-          and philosophy of investing and business analysis.
-
-
-          ###### Even if you are from a non-finance background.
+          You don't need to pursue an MBA, CA, CFA or a Phd to be an expert in
+          Finance.
         actions: []
         image: images/RI44.jpg
         image_alt: Feature 1 placeholder image
