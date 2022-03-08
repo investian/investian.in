@@ -100,7 +100,7 @@ sections:
         image_position: top
         image_width: sixty
         image_align: left
-        image_has_padding: false
+        image_has_padding: true
         image: images/Applied Corporate Finance.jpg
       - title: lorem-ipsum
         subtitle: lorem-ipsum
