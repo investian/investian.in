@@ -20,7 +20,7 @@ sections:
       financial education.
   - type: features_section
     features:
-      - title: Level up your financial acumen.
+      - title: "Level up your financial acumen\_\U0001F680"
         content: >
           **Finance Lab** is not merely for career training or professional
           development. It's for those who want a proper, well-rounded grounding
