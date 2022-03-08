@@ -21,11 +21,8 @@ sections:
   - type: features_section
     features:
       - title: "Level up your financial acumen\_\U0001F680"
-        content: >
-          **Finance Lab** is not merely for career training or professional
-          development. It's for those who want a proper, well-rounded grounding
-          in financial education along with the support from an active
-          professional community of fellow learners.
+        content: |2
+           It's for those who want a proper, well-rounded grounding in financial education along with the support from an active professional community of fellow learners.
         actions: []
         image: images/ru-ed37624a.jpg
         image_alt: Feature 1 placeholder image
