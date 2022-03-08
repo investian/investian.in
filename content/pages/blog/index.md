@@ -2,7 +2,7 @@
 title: Blog
 sections:
   - type: hero_section
-    title: Books
+    title: Blog
     subtitle: 'Research, Investments & more'
     align: center
     padding_top: medium
