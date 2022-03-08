@@ -56,7 +56,6 @@ sections:
   - type: features_section
     features:
       - title: 'Finance Lab membership:'
-        image: images/superb-anemone.jpg
         image_alt: Brandon Guidelines
         media_position: right
         media_width: fifty
