@@ -61,7 +61,7 @@ sections:
         media_position: right
         media_width: fifty
         actions:
-          - label: Join the club!
+          - label: Apply
             url: '#'
             style: primary
             has_icon: true
