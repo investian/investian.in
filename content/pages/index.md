@@ -31,17 +31,6 @@ sections:
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: fifty
-      - title: Level up your financial acumen
-        content: >
-          **Finance Lab** is not merely for career training or professional
-          development. It's for those who want a proper, well-rounded grounding
-          in financial education along with the support from an active
-          professional community of fellow learners.
-        actions: []
-        image: images/ru.jpg
-        image_alt: Feature 2 placeholder image
-        media_position: left
-        media_width: fifty
       - title: An eco-system of collaborative learning
         content: >
           Connect with like-minded peer group through our strong network of
