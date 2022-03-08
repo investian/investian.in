@@ -30,7 +30,6 @@ sections:
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: fifty
-        subtitle: 'CA, CFA, MBA or a Phd cannot make you an expert in Finance'
       - title: Level up your financial acumen
         content: >
           **Finance Lab** is not merely for career training or professional
