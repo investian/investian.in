@@ -64,9 +64,6 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: none
-    subtitle: >-
-      You don't need to pursue an MBA, CA, CFA or a Phd to be an expert in
-      Finance.
   - type: features_section
     features:
       - title: 'Stock Pitch Club membership:'
