@@ -19,7 +19,7 @@ sections:
       Gain access to all the resources you need to give yourself a world class
       financial education.
   - type: features_section
-    title: Why join Stock Pitch Club?
+    title: Only 24% Indians Financially Literate
     features:
       - title: Institutional grade Equity Research - for every Indian
         subtitle: >-
