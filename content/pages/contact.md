@@ -65,7 +65,7 @@ sections:
             icon: arrow-right
             icon_position: right
         actions_align: center
-        image: images/Logo-trendlyne.svg
+        image: images/good-rabbit.png
         image_alt: Other queries icon
         image_position: top
         image_align: center
