@@ -2,7 +2,7 @@
 title: About
 sections:
   - type: hero_section
-    title: About
+    title: Resources
     subtitle: Investian
     align: center
     background_color: primary
