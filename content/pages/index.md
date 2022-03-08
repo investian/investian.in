@@ -31,10 +31,11 @@ sections:
         media_width: fifty
       - title: Hands-on approach to analyze financial reports
         content: >
-          Our core philosophy involves in-depth fundamental research and
-          building systematic strategies to pick high-quality investments and
-          build a strong recession-proof portfolio to yield consistent
-          risk-adjusted returns in the long run.
+          Finance Lab is a complete financial education platform that curates
+          publicly available online materials. It's not merely for career
+          training or professional development. It's for those who want a
+          proper, well-rounded grounding in financial education with support
+          from professional community of fellow learners.
         actions: []
         image: images/M3-Ch4-chart1-6.jpg
         image_alt: Feature 2 placeholder image
