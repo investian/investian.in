@@ -49,9 +49,6 @@ sections:
         media_position: left
         media_width: fifty
       - title: An eco-system of collaborative learning
-        subtitle: >-
-          SWOT, Porter's 5 forces, PESTLE, Value Chain Analysis, DuPont
-          Analysis, Piotroski Scan & more
         content: >
           Connect with like-minded peer group through our strong network of
           finance professionals, CAs, CFAs, MBAs and undergrads.
