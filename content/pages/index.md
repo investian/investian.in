@@ -21,14 +21,13 @@ sections:
   - type: features_section
     features:
       - title: Only 24% Indians are Financially Literate.
-        content: >+
-          *But not everyone can pursue an MBA, CA, CFA or a Phd. *
+        content: >
+          *But not everyone can pursue an MBA, CA, CFA or a Phd.*
 
 
           **Finance lab** leverages the abundantly available online materials in
           the form of books, podcasts, blog posts and research and curates them
-          as a one-stop shop. 
-
+          as a one-stop shop.
         actions: []
         image: images/wo1-d3134978.jpg
         image_alt: Feature 1 placeholder image
