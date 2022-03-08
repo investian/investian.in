@@ -19,7 +19,6 @@ sections:
       Gain access to all the resources you need to give yourself a world class
       financial education.
   - type: features_section
-    title: Only 24% Indians Financially Literate
     features:
       - title: Only 24% Indians Financially Literate
         content: >
