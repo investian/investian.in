@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Books
 seo:
   title: ''
   description: ''
