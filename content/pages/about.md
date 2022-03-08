@@ -87,7 +87,15 @@ sections:
     form_action: 'https://ajuniorvc.com/community/'
   - title: Books in Finance
     subtitle: Curated collections
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
     grid_items: []
     grid_cols: three
     grid_gap_vert: small
