@@ -22,9 +22,9 @@ sections:
     features:
       - title: Only 24% Indians are financially literate.
         content: >
-          To bridge this gap**, Finance lab** leverages the abundantly available
-          online materials in the form of books, podcasts, blog posts and
-          research and curates them as a one-stop portal. 
+          To bridge this gap\*\*, Finance lab\*\* leverages the abundantly
+          available online materials in the form of books, podcasts, blog posts
+          and curates them as a one-stop research platform.
         actions: []
         image: images/wo1-d3134978.jpg
         image_alt: Feature 1 placeholder image
