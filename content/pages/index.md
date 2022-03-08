@@ -37,7 +37,7 @@ sections:
           proper, well-rounded grounding in financial education with support
           from professional community of fellow learners.
         actions: []
-        image: images/M3-Ch4-chart1-6.jpg
+        image: images/ru.jpg
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: fifty
