@@ -85,6 +85,13 @@ sections:
             new_window: false
             no_follow: false
             type: action
+        video_embed_html: >-
+          <script
+          src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script><iframe
+          class="airtable-embed airtable-dynamic-height"
+          src="https://airtable.com/embed/shrdAwkqCIJm22cRA?backgroundColor=yellow"
+          frameborder="0" onmousewheel="" width="100%" height="646"
+          style="background: transparent; border: 1px solid #ccc;"></iframe>
     feature_padding_vert: small
     background_color: primary
   - type: blog_feed_section
