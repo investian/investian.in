@@ -2,7 +2,7 @@
 title: Investian
 sections:
   - type: hero_section
-    title: 'We think, eat & breath stocks.dd'
+    title: Democratizing Finance.
     actions:
       - label: Join the Community
         url: /pricing
