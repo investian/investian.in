@@ -2,7 +2,7 @@
 title: Investian
 sections:
   - type: hero_section
-    title: Democratizing Finance.
+    title: Democratizing Financial knowledge.
     actions:
       - label: Join the Community
         url: /pricing
