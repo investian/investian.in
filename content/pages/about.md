@@ -6,25 +6,6 @@ sections:
     subtitle: Finance Lab
     align: center
     background_color: primary
-  - type: features_section
-    features:
-      - title: Our Philosophy
-        content: >+
-          For individuals, equity trading is generally synonymous to speculation
-          & involves complex trading charts and indicators that later becomes
-          obsolete. And this myth has to be broken.
-
-
-          At Investian, our core philosophy involves in-depth fundamental
-          research and building systematic strategies to pick high-quality
-          investments and build a strong recession-proof portfolio to yield
-          consistent risk-adjusted returns in the long run.
-
-        image: images/RI44.jpg
-        image_alt: People in a conference room
-        media_position: left
-        media_width: fifty
-    background_color: secondary
   - title_align: center
     content: >+
       ![](/images/green-giraffe.png)
