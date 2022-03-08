@@ -56,7 +56,7 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
   - type: cta_section
-    title: Join Finance Lab today!
+    title: "Join Finance Lab today!\_\U0001F44B"
     content: |
       It's never too late to start making your hard-earned money work for you.
     actions:
