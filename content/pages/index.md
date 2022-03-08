@@ -48,7 +48,7 @@ sections:
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: fifty
-      - title: Time-tested Frameworks to understand businesses
+      - title: An eco-system of collaborative learning
         subtitle: >-
           SWOT, Porter's 5 forces, PESTLE, Value Chain Analysis, DuPont
           Analysis, Piotroski Scan & more
