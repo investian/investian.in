@@ -3,7 +3,7 @@ title: About
 sections:
   - type: hero_section
     title: "\U0001F4DAResources"
-    subtitle: Investian
+    subtitle: Finance Lab
     align: center
     background_color: primary
   - type: features_section
