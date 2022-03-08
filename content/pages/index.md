@@ -61,7 +61,7 @@ sections:
         media_position: right
         media_width: fifty
         actions:
-          - label: Apply
+          - label: Apply now
             url: '#'
             style: primary
             has_icon: true
