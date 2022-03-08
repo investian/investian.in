@@ -108,7 +108,7 @@ sections:
         image_width: sixty
         image_align: left
         image_has_padding: true
-        image: images/Valuation_Mckinsey.jpg
+        image: images/Valuations-Mckinsey.png
       - title_align: left
         content_align: left
         actions: []
