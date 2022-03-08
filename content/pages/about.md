@@ -101,7 +101,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-        image: images/aswath damodaran.jpg
+        image: images/Applied Corporate Finance.jpg
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         title_align: left
