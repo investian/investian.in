@@ -20,7 +20,7 @@ sections:
       financial education.
   - type: features_section
     features:
-      - title: Only 24% Indians are financially literate.
+      - title: Level up your financial acumen.
         content: >
           To bridge this gap, **Finance lab** leverages the abundantly available
           online materials in the form of books, podcasts, blog posts and
