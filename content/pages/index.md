@@ -60,21 +60,6 @@ sections:
         image_alt: Brandon Guidelines
         media_position: right
         media_width: thirty-three
-        content: >
-          *   Understand the nuances of Equity Research and how you can apply it
-          to create long-term wealth through investing
-
-
-          *   Identify moats and analyze specific sectors to build your circle
-          of competence
-
-
-          *   Analyze financial statements of businesses & calculate it's
-          Intrinsic Values
-
-
-          *   Get access to our exclusive chat rooms and network with
-          like-minded investors
         actions:
           - label: Join the club!
             url: '#'
