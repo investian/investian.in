@@ -107,7 +107,7 @@ sections:
         actions: []
         actions_align: left
         actions_width: auto
-        image_position: top
+        image_position: right
         image_width: sixty
         image_align: left
         image_has_padding: true
