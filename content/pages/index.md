@@ -26,7 +26,7 @@ sections:
           online materials in the form of books, podcasts, blog posts and
           curates them as a one-stop research platform.
         actions: []
-        image: images/wo1-d3134978.jpg
+        image: images/financial literacy.jpg
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: fifty
