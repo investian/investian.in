@@ -3,7 +3,7 @@ title: Blog
 sections:
   - type: hero_section
     title: Research
-    subtitle: 'Research, Investments & more'
+    subtitle: 'Investments, Markets & more'
     align: center
     padding_top: medium
     padding_bottom: none
