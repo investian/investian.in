@@ -56,7 +56,7 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
   - type: cta_section
-    title: Become an Investian today!
+    title: Join Finance Lab today!
     content: |
       It's never too late to start making your hard-earned money work for you.
     actions:
