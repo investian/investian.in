@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Valuation Guru- Aswath Damodaran
 subtitle: lorem-ipsum
 date: '2022-03-08'
 categories: []
