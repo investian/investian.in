@@ -34,6 +34,7 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: none
+    title: "Level up your financial acumen \U0001F680"
   - type: features_section
     features:
       - title: 'Finance Lab membership:'
