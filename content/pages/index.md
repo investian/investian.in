@@ -28,6 +28,9 @@ sections:
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: fifty
+        subtitle: >-
+          Finance Lab is not merely for career training or professional
+          development.
     feature_padding_vert: large
     align: center
     background_color: none
