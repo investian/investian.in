@@ -20,8 +20,7 @@ sections:
       financial education.
   - type: features_section
     features:
-      - title: "Level up your financial acumen\_\U0001F680"
-        content: |2
+      - content: |2
            It's for those who want a proper, well-rounded grounding in financial education along with the support from an active professional community of fellow learners.
         actions: []
         image: images/ru-ed37624a.jpg
