@@ -31,7 +31,7 @@ sections:
         media_width: fifty
       - title: Level up your financial acumen
         content: >
-          Finance Lab is not merely for career training or professional
+          **Finance Lab** is not merely for career training or professional
           development platform. It's for those who want a proper, well-rounded
           grounding in financial education through curated publicly available
           online materials in the form of books, podcasts, blog posts and
