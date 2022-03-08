@@ -2,7 +2,7 @@
 title: Blog
 sections:
   - type: hero_section
-    title: Research
+    title: "\U0001F4F0Research"
     subtitle: "Institutional-grade Equity Research - for every Indian\_\U0001F1EE\U0001F1F3"
     align: center
     padding_top: medium
