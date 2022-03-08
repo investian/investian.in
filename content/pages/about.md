@@ -109,7 +109,7 @@ sections:
         actions_width: auto
         image_alt: lorem-ipsum
         image_position: top
-        image_width: fifty
+        image_width: sixty
         image_align: left
         image_has_padding: true
         image: images/How Finance works.png
