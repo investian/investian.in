@@ -62,7 +62,6 @@ sections:
           Fill the below form to get access to our Exclusive Forum to
           participate in learning exercises and discuss practical examples so
           that you can gain experience in doing your own independent analysis.
-        subtitle: sd
     feature_padding_vert: small
     background_color: primary
   - type: blog_feed_section
