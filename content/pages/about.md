@@ -6,56 +6,6 @@ sections:
     subtitle: Finance Lab
     align: center
     background_color: primary
-  - title_align: center
-    content: >+
-      ![](/images/green-giraffe.png)
-
-
-      Join our strong community of professionals, investors, students, finance
-      enthusiasts looking to build, network, and grow.
-
-
-      Get access to an Exclusive Forum to participate in learning exercises and
-      discuss practical examples so that you can gain experience in doing your
-      own independent analysis.
-
-    content_align: left
-    form_position: right
-    form_width: fourty
-    form_layout: stacked
-    enable_card: true
-    form_fields:
-      - input_type: text
-        name: Name
-        label: Name
-        options: []
-        is_required: true
-        type: form_field
-      - input_type: email
-        name: email
-        label: E-mail
-        options: []
-        is_required: true
-        type: form_field
-      - input_type: text
-        name: LinkedIn Profile URL
-        label: LinkedIn Profile URL
-        options: []
-        is_required: true
-        type: form_field
-    submit_label: Join Telegram Group
-    align_vert: top
-    padding_top: small
-    padding_bottom: medium
-    has_border: false
-    background_color: none
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: form_section
-    form_id: Telegram group
-    form_action: 'https://ajuniorvc.com/community/'
   - title: Books in Finance
     subtitle: Curated collections
     actions: []
