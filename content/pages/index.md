@@ -21,7 +21,7 @@ sections:
   - type: features_section
     title: Only 24% Indians Financially Literate
     features:
-      - title: Institutional grade Equity Research - for every Indian
+      - title: Only 24% Indians Financially Literate
         subtitle: >-
           You don't need to pursue an MBA, CA, CFA or a Phd to be an expert in
           Finance.
