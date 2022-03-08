@@ -33,10 +33,8 @@ sections:
         content: >
           **Finance Lab** is not merely for career training or professional
           development platform. It's for those who want a proper, well-rounded
-          grounding in financial education through curated publicly available
-          online materials in the form of books, podcasts, blog posts and
-          research along with the support from a active professional community
-          of fellow learners.
+          grounding in financial education through curated resources along with
+          the support from an active professional community of fellow learners.
         actions: []
         image: images/ru.jpg
         image_alt: Feature 2 placeholder image
