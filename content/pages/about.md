@@ -89,8 +89,7 @@ sections:
     subtitle: Curated collections
     actions: []
     grid_items:
-      - title: lorem-ipsum
-        subtitle: lorem-ipsum
+      - subtitle: lorem-ipsum
         title_align: left
         content_align: left
         actions: []
