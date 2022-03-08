@@ -108,7 +108,7 @@ sections:
         image_width: sixty
         image_align: left
         image_has_padding: true
-        image: images/How Finance works.png
+        image: images/Valuation_Mckinsey.jpg
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         title_align: left
