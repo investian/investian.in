@@ -29,7 +29,7 @@ sections:
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: fifty
-      - title: Hands-on approach to analyze financial reports
+      - title: Level up your financial acumen
         content: >
           Finance Lab is a complete financial education platform that curates
           publicly available online materials. It's not merely for career
