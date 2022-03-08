@@ -3,7 +3,7 @@ title: Blog
 sections:
   - type: hero_section
     title: Research
-    subtitle: Institutional-grade Equity Research - for every Indian
+    subtitle: "Institutional-grade Equity Research - for every Indian\_\U0001F1EE\U0001F1F3"
     align: center
     padding_top: medium
     padding_bottom: none
