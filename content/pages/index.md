@@ -53,7 +53,7 @@ sections:
           Connect with like-minded peer group through our strong network of
           finance professionals, CAs, CFAs, MBAs and undergrads.
         actions: []
-        image: images/incredible-hickory.jpg
+        image: images/RI44-825c117c.jpg
         image_alt: Feature 3 placeholder image
         media_position: right
         media_width: fifty
