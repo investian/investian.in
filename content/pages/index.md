@@ -30,7 +30,7 @@ sections:
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: fifty
-        subtitle: 'MBA, CA, CFA or a Phd in Finance is not the solution'
+        subtitle: 'CA, CFA or a Phd in Finance is not the solution'
       - title: Level up your financial acumen
         content: >
           **Finance Lab** is not merely for career training or professional
