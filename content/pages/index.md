@@ -30,7 +30,9 @@ sections:
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: fifty
-        subtitle: 'But not everyone can pursue an MBA, CA, CFA or a Phd in Finance'
+        subtitle: >-
+          Pursuing an MBA, CA, CFA or a Phd in Finance is not the solution to
+          this problem.
       - title: Level up your financial acumen
         content: >
           **Finance Lab** is not merely for career training or professional
